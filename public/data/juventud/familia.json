@@ -1,0 +1,242 @@
+[
+    {
+        "Estado": "Puerto Rico",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "45%"
+    },
+    {
+        "Estado": "Puerto Rico",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "1"
+    },
+    {
+        "Estado": "Puerto Rico",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "8.5"
+    },
+    {
+        "Estado": "Puerto Rico",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "1"
+    },
+    {
+        "Estado": "Alabama",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "34%"
+    },
+    {
+        "Estado": "Alabama",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "10"
+    },
+    {
+        "Estado": "Alabama",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "6.2"
+    },
+    {
+        "Estado": "Alabama",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "15"
+    },
+    {
+        "Estado": "Alaska",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "28%"
+    },
+    {
+        "Estado": "Alaska",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "37"
+    },
+    {
+        "Estado": "Alaska",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "4.8"
+    },
+    {
+        "Estado": "Alaska",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "35"
+    },
+    {
+        "Estado": "Arizona",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "32%"
+    },
+    {
+        "Estado": "Arizona",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "20"
+    },
+    {
+        "Estado": "Arizona",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "5.5"
+    },
+    {
+        "Estado": "Arizona",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "25"
+    },
+    {
+        "Estado": "Arkansas",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "33%"
+    },
+    {
+        "Estado": "Arkansas",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "14"
+    },
+    {
+        "Estado": "Arkansas",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "6.8"
+    },
+    {
+        "Estado": "Arkansas",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "8"
+    },
+    {
+        "Estado": "California",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "29%"
+    },
+    {
+        "Estado": "California",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "35"
+    },
+    {
+        "Estado": "California",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "3.9"
+    },
+    {
+        "Estado": "California",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "45"
+    },
+    {
+        "Estado": "Colorado",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "26%"
+    },
+    {
+        "Estado": "Colorado",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "42"
+    },
+    {
+        "Estado": "Colorado",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "4.2"
+    },
+    {
+        "Estado": "Colorado",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "42"
+    },
+    {
+        "Estado": "Massachusetts",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "22%"
+    },
+    {
+        "Estado": "Massachusetts",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "49"
+    },
+    {
+        "Estado": "Massachusetts",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "2.8"
+    },
+    {
+        "Estado": "Massachusetts",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "52"
+    },
+    {
+        "Estado": "Florida",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "31%"
+    },
+    {
+        "Estado": "Florida",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "26"
+    },
+    {
+        "Estado": "Florida",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "4.5"
+    },
+    {
+        "Estado": "Florida",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "38"
+    },
+    {
+        "Estado": "Hawaii",
+        "Año": "2022",
+        "Indicador": "Menores en familias de padres o madres solteras",
+        "Valor": "25%"
+    },
+    {
+        "Estado": "Hawaii",
+        "Año": "2022",
+        "Indicador": "Posición: Menores en familias de padres o madres solteras",
+        "Valor": "45"
+    },
+    {
+        "Estado": "Hawaii",
+        "Año": "2022",
+        "Indicador": "Maltrato de menores",
+        "Valor": "3.2"
+    },
+    {
+        "Estado": "Hawaii",
+        "Año": "2022",
+        "Indicador": "Posición: Maltrato de menores",
+        "Valor": "48"
+    }
+]
