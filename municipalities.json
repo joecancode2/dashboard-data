@@ -1,0 +1,2812 @@
+{
+  "municipalities": [
+    {
+      "id": "adjuntas",
+      "name": "Adjuntas",
+      "coordinates": [
+        18.1633,
+        -66.7214
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 10.6,
+          "median_income": 24255,
+          "poverty_rate": 27.5
+        },
+        "education": {
+          "graduation_rate": 72.7,
+          "college_enrollment": 67.1,
+          "test_scores": 62.7
+        },
+        "family": {
+          "single_parent_households": 43.6,
+          "child_poverty": 56.9,
+          "teen_pregnancy": 14.5
+        },
+        "health": {
+          "insurance_coverage": 87,
+          "infant_mortality": 3.1,
+          "life_expectancy": 83.4
+        },
+        "safety": {
+          "crime_rate": 276,
+          "domestic_violence": 125.5,
+          "drug_related_crimes": 110.7
+        }
+      }
+    },
+    {
+      "id": "aguada",
+      "name": "Aguada",
+      "coordinates": [
+        18.3809,
+        -67.1883
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 19.6,
+          "median_income": 22981,
+          "poverty_rate": 21.2
+        },
+        "education": {
+          "graduation_rate": 81.3,
+          "college_enrollment": 43.6,
+          "test_scores": 83.8
+        },
+        "family": {
+          "single_parent_households": 33.7,
+          "child_poverty": 30.7,
+          "teen_pregnancy": 9.9
+        },
+        "health": {
+          "insurance_coverage": 92.1,
+          "infant_mortality": 6.2,
+          "life_expectancy": 82.7
+        },
+        "safety": {
+          "crime_rate": 288.8,
+          "domestic_violence": 143.3,
+          "drug_related_crimes": 149
+        }
+      }
+    },
+    {
+      "id": "aguadilla",
+      "name": "Aguadilla",
+      "coordinates": [
+        18.4275,
+        -67.1541
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 6.6,
+          "median_income": 31001,
+          "poverty_rate": 52.1
+        },
+        "education": {
+          "graduation_rate": 81.6,
+          "college_enrollment": 52.6,
+          "test_scores": 64.4
+        },
+        "family": {
+          "single_parent_households": 38.5,
+          "child_poverty": 61.2,
+          "teen_pregnancy": 11.3
+        },
+        "health": {
+          "insurance_coverage": 91.7,
+          "infant_mortality": 5.6,
+          "life_expectancy": 84.9
+        },
+        "safety": {
+          "crime_rate": 121.7,
+          "domestic_violence": 104.8,
+          "drug_related_crimes": 147.7
+        }
+      }
+    },
+    {
+      "id": "aguas buenas",
+      "name": "Aguas Buenas",
+      "coordinates": [
+        18.255,
+        -66.1052
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 11.5,
+          "median_income": 25051,
+          "poverty_rate": 57.9
+        },
+        "education": {
+          "graduation_rate": 60.5,
+          "college_enrollment": 54.6,
+          "test_scores": 88.7
+        },
+        "family": {
+          "single_parent_households": 42.7,
+          "child_poverty": 45.2,
+          "teen_pregnancy": 14.5
+        },
+        "health": {
+          "insurance_coverage": 88.2,
+          "infant_mortality": 2.2,
+          "life_expectancy": 82.6
+        },
+        "safety": {
+          "crime_rate": 192.3,
+          "domestic_violence": 65.1,
+          "drug_related_crimes": 144.3
+        }
+      }
+    },
+    {
+      "id": "aibonito",
+      "name": "Aibonito",
+      "coordinates": [
+        18.1406,
+        -66.2668
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 7.8,
+          "median_income": 25609,
+          "poverty_rate": 55.3
+        },
+        "education": {
+          "graduation_rate": 79,
+          "college_enrollment": 51.3,
+          "test_scores": 88.9
+        },
+        "family": {
+          "single_parent_households": 36.8,
+          "child_poverty": 61.8,
+          "teen_pregnancy": 14.4
+        },
+        "health": {
+          "insurance_coverage": 91.1,
+          "infant_mortality": 6.1,
+          "life_expectancy": 76.9
+        },
+        "safety": {
+          "crime_rate": 133.9,
+          "domestic_violence": 61.3,
+          "drug_related_crimes": 137.4
+        }
+      }
+    },
+    {
+      "id": "anasco",
+      "name": "Añasco",
+      "coordinates": [
+        18.2855,
+        -67.1392
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.4,
+          "median_income": 23786,
+          "poverty_rate": 38.3
+        },
+        "education": {
+          "graduation_rate": 82.9,
+          "college_enrollment": 42.3,
+          "test_scores": 86.9
+        },
+        "family": {
+          "single_parent_households": 42.7,
+          "child_poverty": 62.9,
+          "teen_pregnancy": 24.6
+        },
+        "health": {
+          "insurance_coverage": 81.9,
+          "infant_mortality": 6.9,
+          "life_expectancy": 81.9
+        },
+        "safety": {
+          "crime_rate": 159.7,
+          "domestic_violence": 70.1,
+          "drug_related_crimes": 125
+        }
+      }
+    },
+    {
+      "id": "arecibo",
+      "name": "Arecibo",
+      "coordinates": [
+        18.4725,
+        -66.7151
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.8,
+          "median_income": 29764,
+          "poverty_rate": 25.6
+        },
+        "education": {
+          "graduation_rate": 79.8,
+          "college_enrollment": 46.8,
+          "test_scores": 86.2
+        },
+        "family": {
+          "single_parent_households": 47.2,
+          "child_poverty": 32.6,
+          "teen_pregnancy": 17.3
+        },
+        "health": {
+          "insurance_coverage": 88,
+          "infant_mortality": 11.5,
+          "life_expectancy": 82.7
+        },
+        "safety": {
+          "crime_rate": 179,
+          "domestic_violence": 136.5,
+          "drug_related_crimes": 117.8
+        }
+      }
+    },
+    {
+      "id": "arroyo",
+      "name": "Arroyo",
+      "coordinates": [
+        17.9656,
+        -66.0618
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9,
+          "median_income": 39958,
+          "poverty_rate": 59.5
+        },
+        "education": {
+          "graduation_rate": 68.4,
+          "college_enrollment": 46.7,
+          "test_scores": 77.8
+        },
+        "family": {
+          "single_parent_households": 23.8,
+          "child_poverty": 52.2,
+          "teen_pregnancy": 21.8
+        },
+        "health": {
+          "insurance_coverage": 85.7,
+          "infant_mortality": 3.5,
+          "life_expectancy": 80.7
+        },
+        "safety": {
+          "crime_rate": 290.9,
+          "domestic_violence": 147.8,
+          "drug_related_crimes": 169.2
+        }
+      }
+    },
+    {
+      "id": "barceloneta",
+      "name": "Barceloneta",
+      "coordinates": [
+        18.4508,
+        -66.5385
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.7,
+          "median_income": 25007,
+          "poverty_rate": 50.8
+        },
+        "education": {
+          "graduation_rate": 63.1,
+          "college_enrollment": 44.2,
+          "test_scores": 62.3
+        },
+        "family": {
+          "single_parent_households": 42.3,
+          "child_poverty": 36.9,
+          "teen_pregnancy": 14.4
+        },
+        "health": {
+          "insurance_coverage": 82.9,
+          "infant_mortality": 7.5,
+          "life_expectancy": 76.2
+        },
+        "safety": {
+          "crime_rate": 131.9,
+          "domestic_violence": 111.9,
+          "drug_related_crimes": 180.4
+        }
+      }
+    },
+    {
+      "id": "barranquitas",
+      "name": "Barranquitas",
+      "coordinates": [
+        18.1867,
+        -66.3063
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 16,
+          "median_income": 39506,
+          "poverty_rate": 56.6
+        },
+        "education": {
+          "graduation_rate": 74.1,
+          "college_enrollment": 50.2,
+          "test_scores": 68.2
+        },
+        "family": {
+          "single_parent_households": 29.9,
+          "child_poverty": 55.9,
+          "teen_pregnancy": 18.8
+        },
+        "health": {
+          "insurance_coverage": 80.9,
+          "infant_mortality": 11.7,
+          "life_expectancy": 77.8
+        },
+        "safety": {
+          "crime_rate": 352,
+          "domestic_violence": 100.5,
+          "drug_related_crimes": 170.8
+        }
+      }
+    },
+    {
+      "id": "bayamon",
+      "name": "Bayamón",
+      "coordinates": [
+        18.3985,
+        -66.1557
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.2,
+          "median_income": 39532,
+          "poverty_rate": 24.2
+        },
+        "education": {
+          "graduation_rate": 79.7,
+          "college_enrollment": 33.9,
+          "test_scores": 60.4
+        },
+        "family": {
+          "single_parent_households": 34.3,
+          "child_poverty": 46.1,
+          "teen_pregnancy": 8.9
+        },
+        "health": {
+          "insurance_coverage": 93.6,
+          "infant_mortality": 3.5,
+          "life_expectancy": 80.5
+        },
+        "safety": {
+          "crime_rate": 337.2,
+          "domestic_violence": 71.5,
+          "drug_related_crimes": 64
+        }
+      }
+    },
+    {
+      "id": "cabo rojo",
+      "name": "Cabo Rojo",
+      "coordinates": [
+        18.0865,
+        -67.1457
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 14.6,
+          "median_income": 22249,
+          "poverty_rate": 56.5
+        },
+        "education": {
+          "graduation_rate": 63.5,
+          "college_enrollment": 42.9,
+          "test_scores": 88.1
+        },
+        "family": {
+          "single_parent_households": 27,
+          "child_poverty": 34.2,
+          "teen_pregnancy": 11.4
+        },
+        "health": {
+          "insurance_coverage": 80.1,
+          "infant_mortality": 6.9,
+          "life_expectancy": 78.6
+        },
+        "safety": {
+          "crime_rate": 106.4,
+          "domestic_violence": 132.7,
+          "drug_related_crimes": 180.9
+        }
+      }
+    },
+    {
+      "id": "caguas",
+      "name": "Caguas",
+      "coordinates": [
+        18.2341,
+        -66.0485
+      ],
+      "region": "Centro-este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 17.6,
+          "median_income": 18137,
+          "poverty_rate": 39.4
+        },
+        "education": {
+          "graduation_rate": 77.5,
+          "college_enrollment": 60.8,
+          "test_scores": 83.1
+        },
+        "family": {
+          "single_parent_households": 21.5,
+          "child_poverty": 46.3,
+          "teen_pregnancy": 13.8
+        },
+        "health": {
+          "insurance_coverage": 90.7,
+          "infant_mortality": 5.9,
+          "life_expectancy": 79
+        },
+        "safety": {
+          "crime_rate": 273.6,
+          "domestic_violence": 123.1,
+          "drug_related_crimes": 126.4
+        }
+      }
+    },
+    {
+      "id": "camuy",
+      "name": "Camuy",
+      "coordinates": [
+        18.4839,
+        -66.8438
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 19.4,
+          "median_income": 30897,
+          "poverty_rate": 33.3
+        },
+        "education": {
+          "graduation_rate": 83.6,
+          "college_enrollment": 56.1,
+          "test_scores": 63.6
+        },
+        "family": {
+          "single_parent_households": 46.8,
+          "child_poverty": 56.9,
+          "teen_pregnancy": 23.8
+        },
+        "health": {
+          "insurance_coverage": 84.5,
+          "infant_mortality": 7.5,
+          "life_expectancy": 77.8
+        },
+        "safety": {
+          "crime_rate": 309.4,
+          "domestic_violence": 143,
+          "drug_related_crimes": 141.7
+        }
+      }
+    },
+    {
+      "id": "canovanas",
+      "name": "Canóvanas",
+      "coordinates": [
+        18.3767,
+        -65.9119
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.2,
+          "median_income": 34053,
+          "poverty_rate": 49.9
+        },
+        "education": {
+          "graduation_rate": 67,
+          "college_enrollment": 53,
+          "test_scores": 86.4
+        },
+        "family": {
+          "single_parent_households": 30.3,
+          "child_poverty": 47.4,
+          "teen_pregnancy": 24.9
+        },
+        "health": {
+          "insurance_coverage": 81.3,
+          "infant_mortality": 2.9,
+          "life_expectancy": 81.9
+        },
+        "safety": {
+          "crime_rate": 247.1,
+          "domestic_violence": 54.3,
+          "drug_related_crimes": 167.5
+        }
+      }
+    },
+    {
+      "id": "carolina",
+      "name": "Carolina",
+      "coordinates": [
+        18.3805,
+        -65.9574
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.2,
+          "median_income": 37301,
+          "poverty_rate": 22.9
+        },
+        "education": {
+          "graduation_rate": 80.2,
+          "college_enrollment": 46.3,
+          "test_scores": 61.6
+        },
+        "family": {
+          "single_parent_households": 20.2,
+          "child_poverty": 60.7,
+          "teen_pregnancy": 8.2
+        },
+        "health": {
+          "insurance_coverage": 89,
+          "infant_mortality": 3.2,
+          "life_expectancy": 83.6
+        },
+        "safety": {
+          "crime_rate": 111.8,
+          "domestic_violence": 68.1,
+          "drug_related_crimes": 153.1
+        }
+      }
+    },
+    {
+      "id": "catano",
+      "name": "Cataño",
+      "coordinates": [
+        18.4464,
+        -66.1185
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 11,
+          "median_income": 25995,
+          "poverty_rate": 21.4
+        },
+        "education": {
+          "graduation_rate": 70.9,
+          "college_enrollment": 53.7,
+          "test_scores": 82.2
+        },
+        "family": {
+          "single_parent_households": 30.5,
+          "child_poverty": 53.5,
+          "teen_pregnancy": 13.1
+        },
+        "health": {
+          "insurance_coverage": 88.9,
+          "infant_mortality": 11.7,
+          "life_expectancy": 77
+        },
+        "safety": {
+          "crime_rate": 351.1,
+          "domestic_violence": 118,
+          "drug_related_crimes": 72.6
+        }
+      }
+    },
+    {
+      "id": "cayey",
+      "name": "Cayey",
+      "coordinates": [
+        18.1115,
+        -66.1663
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.1,
+          "median_income": 32964,
+          "poverty_rate": 44.1
+        },
+        "education": {
+          "graduation_rate": 76.3,
+          "college_enrollment": 50.8,
+          "test_scores": 75.5
+        },
+        "family": {
+          "single_parent_households": 38.2,
+          "child_poverty": 58,
+          "teen_pregnancy": 15.1
+        },
+        "health": {
+          "insurance_coverage": 94.6,
+          "infant_mortality": 4,
+          "life_expectancy": 76.3
+        },
+        "safety": {
+          "crime_rate": 207.2,
+          "domestic_violence": 71.9,
+          "drug_related_crimes": 65.6
+        }
+      }
+    },
+    {
+      "id": "ceiba",
+      "name": "Ceiba",
+      "coordinates": [
+        18.2702,
+        -65.6507
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.9,
+          "median_income": 21909,
+          "poverty_rate": 57.6
+        },
+        "education": {
+          "graduation_rate": 67.7,
+          "college_enrollment": 64.6,
+          "test_scores": 77.1
+        },
+        "family": {
+          "single_parent_households": 34.8,
+          "child_poverty": 34,
+          "teen_pregnancy": 12
+        },
+        "health": {
+          "insurance_coverage": 80.4,
+          "infant_mortality": 8.7,
+          "life_expectancy": 78.8
+        },
+        "safety": {
+          "crime_rate": 237.6,
+          "domestic_violence": 116.4,
+          "drug_related_crimes": 100
+        }
+      }
+    },
+    {
+      "id": "ciales",
+      "name": "Ciales",
+      "coordinates": [
+        18.3369,
+        -66.4738
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 19.7,
+          "median_income": 20114,
+          "poverty_rate": 34.4
+        },
+        "education": {
+          "graduation_rate": 76.5,
+          "college_enrollment": 30.7,
+          "test_scores": 73.3
+        },
+        "family": {
+          "single_parent_households": 38,
+          "child_poverty": 31.7,
+          "teen_pregnancy": 19.8
+        },
+        "health": {
+          "insurance_coverage": 88.1,
+          "infant_mortality": 3.3,
+          "life_expectancy": 83.2
+        },
+        "safety": {
+          "crime_rate": 275.1,
+          "domestic_violence": 124.4,
+          "drug_related_crimes": 77
+        }
+      }
+    },
+    {
+      "id": "cidra",
+      "name": "Cidra",
+      "coordinates": [
+        18.1756,
+        -66.1619
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.9,
+          "median_income": 36457,
+          "poverty_rate": 46.2
+        },
+        "education": {
+          "graduation_rate": 69.5,
+          "college_enrollment": 56.2,
+          "test_scores": 64.2
+        },
+        "family": {
+          "single_parent_households": 42.2,
+          "child_poverty": 49.3,
+          "teen_pregnancy": 21.7
+        },
+        "health": {
+          "insurance_coverage": 88,
+          "infant_mortality": 7.5,
+          "life_expectancy": 79.6
+        },
+        "safety": {
+          "crime_rate": 341.9,
+          "domestic_violence": 140.9,
+          "drug_related_crimes": 114
+        }
+      }
+    },
+    {
+      "id": "coamo",
+      "name": "Coamo",
+      "coordinates": [
+        18.08,
+        -66.3588
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 6.3,
+          "median_income": 30912,
+          "poverty_rate": 32.3
+        },
+        "education": {
+          "graduation_rate": 61.3,
+          "college_enrollment": 47.6,
+          "test_scores": 76
+        },
+        "family": {
+          "single_parent_households": 35.2,
+          "child_poverty": 46.3,
+          "teen_pregnancy": 20
+        },
+        "health": {
+          "insurance_coverage": 88.3,
+          "infant_mortality": 11.1,
+          "life_expectancy": 75.7
+        },
+        "safety": {
+          "crime_rate": 185.9,
+          "domestic_violence": 145.6,
+          "drug_related_crimes": 198.6
+        }
+      }
+    },
+    {
+      "id": "comerio",
+      "name": "Comerío",
+      "coordinates": [
+        18.2191,
+        -66.2252
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 14.7,
+          "median_income": 17520,
+          "poverty_rate": 44
+        },
+        "education": {
+          "graduation_rate": 77.8,
+          "college_enrollment": 33.9,
+          "test_scores": 66.7
+        },
+        "family": {
+          "single_parent_households": 23.1,
+          "child_poverty": 58.9,
+          "teen_pregnancy": 7.9
+        },
+        "health": {
+          "insurance_coverage": 91.8,
+          "infant_mortality": 4.9,
+          "life_expectancy": 77.9
+        },
+        "safety": {
+          "crime_rate": 368.7,
+          "domestic_violence": 53.2,
+          "drug_related_crimes": 182.4
+        }
+      }
+    },
+    {
+      "id": "corozal",
+      "name": "Corozal",
+      "coordinates": [
+        18.3053,
+        -66.3163
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 10.7,
+          "median_income": 28552,
+          "poverty_rate": 40.5
+        },
+        "education": {
+          "graduation_rate": 86.2,
+          "college_enrollment": 67.1,
+          "test_scores": 81.8
+        },
+        "family": {
+          "single_parent_households": 41.3,
+          "child_poverty": 39.5,
+          "teen_pregnancy": 24.5
+        },
+        "health": {
+          "insurance_coverage": 93.6,
+          "infant_mortality": 9.3,
+          "life_expectancy": 82.4
+        },
+        "safety": {
+          "crime_rate": 255.5,
+          "domestic_violence": 88.3,
+          "drug_related_crimes": 141.9
+        }
+      }
+    },
+    {
+      "id": "culebra",
+      "name": "Culebra",
+      "coordinates": [
+        18.3167,
+        -65.3
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.6,
+          "median_income": 16677,
+          "poverty_rate": 57
+        },
+        "education": {
+          "graduation_rate": 68.5,
+          "college_enrollment": 57.8,
+          "test_scores": 81.7
+        },
+        "family": {
+          "single_parent_households": 39.6,
+          "child_poverty": 57.1,
+          "teen_pregnancy": 13.8
+        },
+        "health": {
+          "insurance_coverage": 85.2,
+          "infant_mortality": 9.4,
+          "life_expectancy": 82.5
+        },
+        "safety": {
+          "crime_rate": 376.9,
+          "domestic_violence": 98.2,
+          "drug_related_crimes": 108.9
+        }
+      }
+    },
+    {
+      "id": "dorado",
+      "name": "Dorado",
+      "coordinates": [
+        18.4582,
+        -66.2602
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 7,
+          "median_income": 32941,
+          "poverty_rate": 27.6
+        },
+        "education": {
+          "graduation_rate": 69.6,
+          "college_enrollment": 67.7,
+          "test_scores": 89.9
+        },
+        "family": {
+          "single_parent_households": 39.2,
+          "child_poverty": 39.7,
+          "teen_pregnancy": 23
+        },
+        "health": {
+          "insurance_coverage": 88.6,
+          "infant_mortality": 2.3,
+          "life_expectancy": 76.8
+        },
+        "safety": {
+          "crime_rate": 309.7,
+          "domestic_violence": 94.4,
+          "drug_related_crimes": 167.3
+        }
+      }
+    },
+    {
+      "id": "fajardo",
+      "name": "Fajardo",
+      "coordinates": [
+        18.3258,
+        -65.652
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.6,
+          "median_income": 34368,
+          "poverty_rate": 35.1
+        },
+        "education": {
+          "graduation_rate": 77.7,
+          "college_enrollment": 33.2,
+          "test_scores": 84
+        },
+        "family": {
+          "single_parent_households": 20.3,
+          "child_poverty": 41.2,
+          "teen_pregnancy": 11.9
+        },
+        "health": {
+          "insurance_coverage": 90.6,
+          "infant_mortality": 6.6,
+          "life_expectancy": 83.8
+        },
+        "safety": {
+          "crime_rate": 167.8,
+          "domestic_violence": 101.3,
+          "drug_related_crimes": 122
+        }
+      }
+    },
+    {
+      "id": "florida",
+      "name": "Florida",
+      "coordinates": [
+        18.3619,
+        -66.5602
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.8,
+          "median_income": 20811,
+          "poverty_rate": 33.4
+        },
+        "education": {
+          "graduation_rate": 85.7,
+          "college_enrollment": 58.2,
+          "test_scores": 80.3
+        },
+        "family": {
+          "single_parent_households": 39.6,
+          "child_poverty": 65.9,
+          "teen_pregnancy": 19.3
+        },
+        "health": {
+          "insurance_coverage": 80.2,
+          "infant_mortality": 6.6,
+          "life_expectancy": 79.2
+        },
+        "safety": {
+          "crime_rate": 307.5,
+          "domestic_violence": 103.7,
+          "drug_related_crimes": 131.4
+        }
+      }
+    },
+    {
+      "id": "guanica",
+      "name": "Guánica",
+      "coordinates": [
+        17.9712,
+        -66.9082
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15.5,
+          "median_income": 21695,
+          "poverty_rate": 24.9
+        },
+        "education": {
+          "graduation_rate": 70,
+          "college_enrollment": 47.6,
+          "test_scores": 77
+        },
+        "family": {
+          "single_parent_households": 44.4,
+          "child_poverty": 64.6,
+          "teen_pregnancy": 12.3
+        },
+        "health": {
+          "insurance_coverage": 85.2,
+          "infant_mortality": 3.4,
+          "life_expectancy": 84.3
+        },
+        "safety": {
+          "crime_rate": 134.6,
+          "domestic_violence": 62.7,
+          "drug_related_crimes": 159
+        }
+      }
+    },
+    {
+      "id": "guayama",
+      "name": "Guayama",
+      "coordinates": [
+        17.9843,
+        -66.113
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 13.1,
+          "median_income": 38813,
+          "poverty_rate": 34
+        },
+        "education": {
+          "graduation_rate": 67.4,
+          "college_enrollment": 53.6,
+          "test_scores": 88.5
+        },
+        "family": {
+          "single_parent_households": 33.8,
+          "child_poverty": 39,
+          "teen_pregnancy": 17.1
+        },
+        "health": {
+          "insurance_coverage": 86.6,
+          "infant_mortality": 8.1,
+          "life_expectancy": 83.4
+        },
+        "safety": {
+          "crime_rate": 123.4,
+          "domestic_violence": 132.6,
+          "drug_related_crimes": 91.7
+        }
+      }
+    },
+    {
+      "id": "guayanilla",
+      "name": "Guayanilla",
+      "coordinates": [
+        17.9819,
+        -66.7919
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15.6,
+          "median_income": 32053,
+          "poverty_rate": 23.1
+        },
+        "education": {
+          "graduation_rate": 85.4,
+          "college_enrollment": 53.1,
+          "test_scores": 87.3
+        },
+        "family": {
+          "single_parent_households": 43.1,
+          "child_poverty": 44.3,
+          "teen_pregnancy": 22.9
+        },
+        "health": {
+          "insurance_coverage": 89.2,
+          "infant_mortality": 5.2,
+          "life_expectancy": 76.3
+        },
+        "safety": {
+          "crime_rate": 382,
+          "domestic_violence": 76.8,
+          "drug_related_crimes": 76
+        }
+      }
+    },
+    {
+      "id": "guaynabo",
+      "name": "Guaynabo",
+      "coordinates": [
+        18.3567,
+        -66.11
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 16.9,
+          "median_income": 18036,
+          "poverty_rate": 40
+        },
+        "education": {
+          "graduation_rate": 81.4,
+          "college_enrollment": 59.1,
+          "test_scores": 76.9
+        },
+        "family": {
+          "single_parent_households": 28.7,
+          "child_poverty": 60.2,
+          "teen_pregnancy": 21.1
+        },
+        "health": {
+          "insurance_coverage": 83.3,
+          "infant_mortality": 6,
+          "life_expectancy": 78.3
+        },
+        "safety": {
+          "crime_rate": 195.1,
+          "domestic_violence": 138.4,
+          "drug_related_crimes": 147.9
+        }
+      }
+    },
+    {
+      "id": "gurabo",
+      "name": "Gurabo",
+      "coordinates": [
+        18.2556,
+        -65.9742
+      ],
+      "region": "Centro-este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 19.7,
+          "median_income": 39117,
+          "poverty_rate": 25.5
+        },
+        "education": {
+          "graduation_rate": 79.9,
+          "college_enrollment": 41.9,
+          "test_scores": 76.2
+        },
+        "family": {
+          "single_parent_households": 20.6,
+          "child_poverty": 43.9,
+          "teen_pregnancy": 11.6
+        },
+        "health": {
+          "insurance_coverage": 85.6,
+          "infant_mortality": 8.2,
+          "life_expectancy": 83.4
+        },
+        "safety": {
+          "crime_rate": 259.5,
+          "domestic_violence": 80.3,
+          "drug_related_crimes": 58.8
+        }
+      }
+    },
+    {
+      "id": "hatillo",
+      "name": "Hatillo",
+      "coordinates": [
+        18.4866,
+        -66.8296
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 7.6,
+          "median_income": 19478,
+          "poverty_rate": 55.3
+        },
+        "education": {
+          "graduation_rate": 69.3,
+          "college_enrollment": 69.7,
+          "test_scores": 79.7
+        },
+        "family": {
+          "single_parent_households": 44.1,
+          "child_poverty": 67.6,
+          "teen_pregnancy": 11.1
+        },
+        "health": {
+          "insurance_coverage": 89,
+          "infant_mortality": 3.3,
+          "life_expectancy": 78.4
+        },
+        "safety": {
+          "crime_rate": 277.7,
+          "domestic_violence": 148.2,
+          "drug_related_crimes": 188.8
+        }
+      }
+    },
+    {
+      "id": "hormigueros",
+      "name": "Hormigueros",
+      "coordinates": [
+        18.1408,
+        -67.1297
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.1,
+          "median_income": 33143,
+          "poverty_rate": 35.9
+        },
+        "education": {
+          "graduation_rate": 69.1,
+          "college_enrollment": 48.3,
+          "test_scores": 89.7
+        },
+        "family": {
+          "single_parent_households": 36.6,
+          "child_poverty": 64.7,
+          "teen_pregnancy": 7.8
+        },
+        "health": {
+          "insurance_coverage": 93.9,
+          "infant_mortality": 7.5,
+          "life_expectancy": 77.4
+        },
+        "safety": {
+          "crime_rate": 121.6,
+          "domestic_violence": 111.9,
+          "drug_related_crimes": 173.2
+        }
+      }
+    },
+    {
+      "id": "humacao",
+      "name": "Humacao",
+      "coordinates": [
+        18.1497,
+        -65.827
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.3,
+          "median_income": 16750,
+          "poverty_rate": 47.3
+        },
+        "education": {
+          "graduation_rate": 66.8,
+          "college_enrollment": 42,
+          "test_scores": 63.7
+        },
+        "family": {
+          "single_parent_households": 34.3,
+          "child_poverty": 58,
+          "teen_pregnancy": 12.6
+        },
+        "health": {
+          "insurance_coverage": 88.5,
+          "infant_mortality": 8.1,
+          "life_expectancy": 79.1
+        },
+        "safety": {
+          "crime_rate": 286.4,
+          "domestic_violence": 128.8,
+          "drug_related_crimes": 161.7
+        }
+      }
+    },
+    {
+      "id": "isabela",
+      "name": "Isabela",
+      "coordinates": [
+        18.5008,
+        -67.0241
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 16.2,
+          "median_income": 31361,
+          "poverty_rate": 59.5
+        },
+        "education": {
+          "graduation_rate": 73.6,
+          "college_enrollment": 30.8,
+          "test_scores": 84.6
+        },
+        "family": {
+          "single_parent_households": 38.8,
+          "child_poverty": 39.8,
+          "teen_pregnancy": 16
+        },
+        "health": {
+          "insurance_coverage": 86.9,
+          "infant_mortality": 6.9,
+          "life_expectancy": 83.2
+        },
+        "safety": {
+          "crime_rate": 369.3,
+          "domestic_violence": 56.2,
+          "drug_related_crimes": 151.3
+        }
+      }
+    },
+    {
+      "id": "jayuya",
+      "name": "Jayuya",
+      "coordinates": [
+        18.2197,
+        -66.591
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 10,
+          "median_income": 15961,
+          "poverty_rate": 35.4
+        },
+        "education": {
+          "graduation_rate": 81.1,
+          "college_enrollment": 64.3,
+          "test_scores": 77.6
+        },
+        "family": {
+          "single_parent_households": 42.7,
+          "child_poverty": 54.4,
+          "teen_pregnancy": 24.2
+        },
+        "health": {
+          "insurance_coverage": 80.1,
+          "infant_mortality": 3.5,
+          "life_expectancy": 85
+        },
+        "safety": {
+          "crime_rate": 239.5,
+          "domestic_violence": 118.4,
+          "drug_related_crimes": 121.3
+        }
+      }
+    },
+    {
+      "id": "juana diaz",
+      "name": "Juana Díaz",
+      "coordinates": [
+        18.0522,
+        -66.5074
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.3,
+          "median_income": 39269,
+          "poverty_rate": 30.9
+        },
+        "education": {
+          "graduation_rate": 85.9,
+          "college_enrollment": 49.4,
+          "test_scores": 86.6
+        },
+        "family": {
+          "single_parent_households": 24.3,
+          "child_poverty": 44.1,
+          "teen_pregnancy": 13.6
+        },
+        "health": {
+          "insurance_coverage": 90.6,
+          "infant_mortality": 7,
+          "life_expectancy": 76.2
+        },
+        "safety": {
+          "crime_rate": 150.7,
+          "domestic_violence": 98.5,
+          "drug_related_crimes": 64.9
+        }
+      }
+    },
+    {
+      "id": "juncos",
+      "name": "Juncos",
+      "coordinates": [
+        18.2308,
+        -65.9194
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.2,
+          "median_income": 35848,
+          "poverty_rate": 54
+        },
+        "education": {
+          "graduation_rate": 84.5,
+          "college_enrollment": 59.6,
+          "test_scores": 62.9
+        },
+        "family": {
+          "single_parent_households": 20.2,
+          "child_poverty": 44.7,
+          "teen_pregnancy": 11.9
+        },
+        "health": {
+          "insurance_coverage": 85.8,
+          "infant_mortality": 5,
+          "life_expectancy": 78.4
+        },
+        "safety": {
+          "crime_rate": 109.8,
+          "domestic_violence": 94.5,
+          "drug_related_crimes": 119
+        }
+      }
+    },
+    {
+      "id": "lajas",
+      "name": "Lajas",
+      "coordinates": [
+        18.0722,
+        -67.0599
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.3,
+          "median_income": 25387,
+          "poverty_rate": 57.3
+        },
+        "education": {
+          "graduation_rate": 66.9,
+          "college_enrollment": 59,
+          "test_scores": 76.9
+        },
+        "family": {
+          "single_parent_households": 47.3,
+          "child_poverty": 60.4,
+          "teen_pregnancy": 5.6
+        },
+        "health": {
+          "insurance_coverage": 85.3,
+          "infant_mortality": 6.8,
+          "life_expectancy": 75.7
+        },
+        "safety": {
+          "crime_rate": 228.2,
+          "domestic_violence": 108,
+          "drug_related_crimes": 166.6
+        }
+      }
+    },
+    {
+      "id": "lares",
+      "name": "Lares",
+      "coordinates": [
+        18.2955,
+        -66.8827
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 11.1,
+          "median_income": 23743,
+          "poverty_rate": 24.5
+        },
+        "education": {
+          "graduation_rate": 69.8,
+          "college_enrollment": 64.3,
+          "test_scores": 86.8
+        },
+        "family": {
+          "single_parent_households": 39.3,
+          "child_poverty": 59.8,
+          "teen_pregnancy": 20.1
+        },
+        "health": {
+          "insurance_coverage": 91,
+          "infant_mortality": 3.3,
+          "life_expectancy": 82.4
+        },
+        "safety": {
+          "crime_rate": 252.8,
+          "domestic_violence": 67.6,
+          "drug_related_crimes": 163
+        }
+      }
+    },
+    {
+      "id": "las marias",
+      "name": "Las Marías",
+      "coordinates": [
+        18.2613,
+        -66.9818
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15,
+          "median_income": 26943,
+          "poverty_rate": 26
+        },
+        "education": {
+          "graduation_rate": 81.2,
+          "college_enrollment": 39.6,
+          "test_scores": 90
+        },
+        "family": {
+          "single_parent_households": 21,
+          "child_poverty": 52.4,
+          "teen_pregnancy": 23.7
+        },
+        "health": {
+          "insurance_coverage": 91,
+          "infant_mortality": 11.3,
+          "life_expectancy": 78.7
+        },
+        "safety": {
+          "crime_rate": 335.6,
+          "domestic_violence": 87.2,
+          "drug_related_crimes": 80.1
+        }
+      }
+    },
+    {
+      "id": "las piedras",
+      "name": "Las Piedras",
+      "coordinates": [
+        18.1858,
+        -65.8727
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15.5,
+          "median_income": 21889,
+          "poverty_rate": 41.7
+        },
+        "education": {
+          "graduation_rate": 68.8,
+          "college_enrollment": 57.8,
+          "test_scores": 83.7
+        },
+        "family": {
+          "single_parent_households": 49.4,
+          "child_poverty": 65.6,
+          "teen_pregnancy": 24.2
+        },
+        "health": {
+          "insurance_coverage": 89.1,
+          "infant_mortality": 4.5,
+          "life_expectancy": 75.1
+        },
+        "safety": {
+          "crime_rate": 207.2,
+          "domestic_violence": 99.3,
+          "drug_related_crimes": 189.5
+        }
+      }
+    },
+    {
+      "id": "loiza",
+      "name": "Loíza",
+      "coordinates": [
+        18.4312,
+        -65.8785
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.2,
+          "median_income": 24550,
+          "poverty_rate": 28.2
+        },
+        "education": {
+          "graduation_rate": 70.9,
+          "college_enrollment": 42.7,
+          "test_scores": 85
+        },
+        "family": {
+          "single_parent_households": 42.4,
+          "child_poverty": 64.2,
+          "teen_pregnancy": 19.4
+        },
+        "health": {
+          "insurance_coverage": 85.5,
+          "infant_mortality": 7.8,
+          "life_expectancy": 79.5
+        },
+        "safety": {
+          "crime_rate": 246.6,
+          "domestic_violence": 80.9,
+          "drug_related_crimes": 112
+        }
+      }
+    },
+    {
+      "id": "luquillo",
+      "name": "Luquillo",
+      "coordinates": [
+        18.3725,
+        -65.7169
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.8,
+          "median_income": 34748,
+          "poverty_rate": 31.3
+        },
+        "education": {
+          "graduation_rate": 73.6,
+          "college_enrollment": 42.4,
+          "test_scores": 71.3
+        },
+        "family": {
+          "single_parent_households": 45.4,
+          "child_poverty": 62.5,
+          "teen_pregnancy": 13.5
+        },
+        "health": {
+          "insurance_coverage": 93.3,
+          "infant_mortality": 6.9,
+          "life_expectancy": 75.9
+        },
+        "safety": {
+          "crime_rate": 154.5,
+          "domestic_violence": 78.5,
+          "drug_related_crimes": 178.9
+        }
+      }
+    },
+    {
+      "id": "manati",
+      "name": "Manatí",
+      "coordinates": [
+        18.4275,
+        -66.4924
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 6.9,
+          "median_income": 30239,
+          "poverty_rate": 51.6
+        },
+        "education": {
+          "graduation_rate": 61,
+          "college_enrollment": 34.6,
+          "test_scores": 66.1
+        },
+        "family": {
+          "single_parent_households": 44.7,
+          "child_poverty": 57.6,
+          "teen_pregnancy": 23
+        },
+        "health": {
+          "insurance_coverage": 85.8,
+          "infant_mortality": 9.4,
+          "life_expectancy": 82.7
+        },
+        "safety": {
+          "crime_rate": 364.3,
+          "domestic_violence": 110,
+          "drug_related_crimes": 109.2
+        }
+      }
+    },
+    {
+      "id": "maricao",
+      "name": "Maricao",
+      "coordinates": [
+        18.1803,
+        -66.9819
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 9.5,
+          "median_income": 26633,
+          "poverty_rate": 27.1
+        },
+        "education": {
+          "graduation_rate": 78.8,
+          "college_enrollment": 61.4,
+          "test_scores": 87.2
+        },
+        "family": {
+          "single_parent_households": 31.9,
+          "child_poverty": 44.8,
+          "teen_pregnancy": 10.4
+        },
+        "health": {
+          "insurance_coverage": 86.6,
+          "infant_mortality": 11.6,
+          "life_expectancy": 79.2
+        },
+        "safety": {
+          "crime_rate": 359.1,
+          "domestic_violence": 116.5,
+          "drug_related_crimes": 156.6
+        }
+      }
+    },
+    {
+      "id": "maunabo",
+      "name": "Maunabo",
+      "coordinates": [
+        17.9725,
+        -65.8994
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 14.9,
+          "median_income": 17355,
+          "poverty_rate": 35.4
+        },
+        "education": {
+          "graduation_rate": 84,
+          "college_enrollment": 42.2,
+          "test_scores": 86.5
+        },
+        "family": {
+          "single_parent_households": 44.1,
+          "child_poverty": 62.5,
+          "teen_pregnancy": 13.5
+        },
+        "health": {
+          "insurance_coverage": 89.4,
+          "infant_mortality": 7.8,
+          "life_expectancy": 81.6
+        },
+        "safety": {
+          "crime_rate": 191.9,
+          "domestic_violence": 138.4,
+          "drug_related_crimes": 195.1
+        }
+      }
+    },
+    {
+      "id": "mayaguez",
+      "name": "Mayagüez",
+      "coordinates": [
+        18.2011,
+        -67.1406
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 5.7,
+          "median_income": 15719,
+          "poverty_rate": 38.1
+        },
+        "education": {
+          "graduation_rate": 88.7,
+          "college_enrollment": 32.4,
+          "test_scores": 72.2
+        },
+        "family": {
+          "single_parent_households": 41,
+          "child_poverty": 67.5,
+          "teen_pregnancy": 15.4
+        },
+        "health": {
+          "insurance_coverage": 88.3,
+          "infant_mortality": 9.2,
+          "life_expectancy": 83.5
+        },
+        "safety": {
+          "crime_rate": 373.5,
+          "domestic_violence": 141.1,
+          "drug_related_crimes": 113.7
+        }
+      }
+    },
+    {
+      "id": "moca",
+      "name": "Moca",
+      "coordinates": [
+        18.3936,
+        -67.1133
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 13.3,
+          "median_income": 34635,
+          "poverty_rate": 57.9
+        },
+        "education": {
+          "graduation_rate": 89.7,
+          "college_enrollment": 31.9,
+          "test_scores": 72
+        },
+        "family": {
+          "single_parent_households": 43.1,
+          "child_poverty": 56.5,
+          "teen_pregnancy": 12
+        },
+        "health": {
+          "insurance_coverage": 92.5,
+          "infant_mortality": 2.9,
+          "life_expectancy": 83
+        },
+        "safety": {
+          "crime_rate": 303.5,
+          "domestic_violence": 139.5,
+          "drug_related_crimes": 127.8
+        }
+      }
+    },
+    {
+      "id": "morovis",
+      "name": "Morovis",
+      "coordinates": [
+        18.3211,
+        -66.4052
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 11.1,
+          "median_income": 36986,
+          "poverty_rate": 32.7
+        },
+        "education": {
+          "graduation_rate": 83.9,
+          "college_enrollment": 47.3,
+          "test_scores": 84.9
+        },
+        "family": {
+          "single_parent_households": 40.5,
+          "child_poverty": 59.8,
+          "teen_pregnancy": 5.6
+        },
+        "health": {
+          "insurance_coverage": 91.6,
+          "infant_mortality": 4.5,
+          "life_expectancy": 76.4
+        },
+        "safety": {
+          "crime_rate": 140,
+          "domestic_violence": 145.1,
+          "drug_related_crimes": 124.5
+        }
+      }
+    },
+    {
+      "id": "naguabo",
+      "name": "Naguabo",
+      "coordinates": [
+        18.21,
+        -65.7358
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 5.7,
+          "median_income": 16247,
+          "poverty_rate": 36.7
+        },
+        "education": {
+          "graduation_rate": 85.1,
+          "college_enrollment": 49.1,
+          "test_scores": 66.5
+        },
+        "family": {
+          "single_parent_households": 39.7,
+          "child_poverty": 35.7,
+          "teen_pregnancy": 23.5
+        },
+        "health": {
+          "insurance_coverage": 87.8,
+          "infant_mortality": 2.3,
+          "life_expectancy": 84.2
+        },
+        "safety": {
+          "crime_rate": 180.3,
+          "domestic_violence": 74.6,
+          "drug_related_crimes": 163.8
+        }
+      }
+    },
+    {
+      "id": "naranjito",
+      "name": "Naranjito",
+      "coordinates": [
+        18.3006,
+        -66.2441
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 6.4,
+          "median_income": 18050,
+          "poverty_rate": 48.3
+        },
+        "education": {
+          "graduation_rate": 76.7,
+          "college_enrollment": 59.9,
+          "test_scores": 88
+        },
+        "family": {
+          "single_parent_households": 34.9,
+          "child_poverty": 40.5,
+          "teen_pregnancy": 7.9
+        },
+        "health": {
+          "insurance_coverage": 91.2,
+          "infant_mortality": 2.5,
+          "life_expectancy": 81.8
+        },
+        "safety": {
+          "crime_rate": 393.1,
+          "domestic_violence": 108.2,
+          "drug_related_crimes": 145.7
+        }
+      }
+    },
+    {
+      "id": "orocovis",
+      "name": "Orocovis",
+      "coordinates": [
+        18.2242,
+        -66.3914
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.6,
+          "median_income": 38960,
+          "poverty_rate": 52.2
+        },
+        "education": {
+          "graduation_rate": 66.5,
+          "college_enrollment": 66.3,
+          "test_scores": 70.5
+        },
+        "family": {
+          "single_parent_households": 30.2,
+          "child_poverty": 54.8,
+          "teen_pregnancy": 22.6
+        },
+        "health": {
+          "insurance_coverage": 89.1,
+          "infant_mortality": 5,
+          "life_expectancy": 80.4
+        },
+        "safety": {
+          "crime_rate": 399.2,
+          "domestic_violence": 142.6,
+          "drug_related_crimes": 123.3
+        }
+      }
+    },
+    {
+      "id": "patillas",
+      "name": "Patillas",
+      "coordinates": [
+        18.0042,
+        -66.0158
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 7.2,
+          "median_income": 16467,
+          "poverty_rate": 38
+        },
+        "education": {
+          "graduation_rate": 62.2,
+          "college_enrollment": 56.7,
+          "test_scores": 77.4
+        },
+        "family": {
+          "single_parent_households": 47.5,
+          "child_poverty": 46.5,
+          "teen_pregnancy": 17.7
+        },
+        "health": {
+          "insurance_coverage": 81.5,
+          "infant_mortality": 8.9,
+          "life_expectancy": 75.5
+        },
+        "safety": {
+          "crime_rate": 298.2,
+          "domestic_violence": 117.3,
+          "drug_related_crimes": 50.2
+        }
+      }
+    },
+    {
+      "id": "penuelas",
+      "name": "Peñuelas",
+      "coordinates": [
+        18.0577,
+        -66.7227
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.7,
+          "median_income": 36054,
+          "poverty_rate": 47.1
+        },
+        "education": {
+          "graduation_rate": 79.5,
+          "college_enrollment": 43.3,
+          "test_scores": 85.9
+        },
+        "family": {
+          "single_parent_households": 35.3,
+          "child_poverty": 67.2,
+          "teen_pregnancy": 12.2
+        },
+        "health": {
+          "insurance_coverage": 83.4,
+          "infant_mortality": 8.2,
+          "life_expectancy": 75.6
+        },
+        "safety": {
+          "crime_rate": 324.7,
+          "domestic_violence": 62.1,
+          "drug_related_crimes": 106.1
+        }
+      }
+    },
+    {
+      "id": "ponce",
+      "name": "Ponce",
+      "coordinates": [
+        18.0111,
+        -66.614
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15.3,
+          "median_income": 26789,
+          "poverty_rate": 23.4
+        },
+        "education": {
+          "graduation_rate": 69.9,
+          "college_enrollment": 35.6,
+          "test_scores": 89.6
+        },
+        "family": {
+          "single_parent_households": 49.5,
+          "child_poverty": 35,
+          "teen_pregnancy": 22
+        },
+        "health": {
+          "insurance_coverage": 91.6,
+          "infant_mortality": 8.7,
+          "life_expectancy": 75.1
+        },
+        "safety": {
+          "crime_rate": 129,
+          "domestic_violence": 104.2,
+          "drug_related_crimes": 198.2
+        }
+      }
+    },
+    {
+      "id": "quebradillas",
+      "name": "Quebradillas",
+      "coordinates": [
+        18.4727,
+        -66.935
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 6.8,
+          "median_income": 39661,
+          "poverty_rate": 34.5
+        },
+        "education": {
+          "graduation_rate": 61,
+          "college_enrollment": 57.4,
+          "test_scores": 63.1
+        },
+        "family": {
+          "single_parent_households": 29.5,
+          "child_poverty": 66.2,
+          "teen_pregnancy": 15.7
+        },
+        "health": {
+          "insurance_coverage": 92.4,
+          "infant_mortality": 4.6,
+          "life_expectancy": 83.6
+        },
+        "safety": {
+          "crime_rate": 350.5,
+          "domestic_violence": 106.8,
+          "drug_related_crimes": 146.5
+        }
+      }
+    },
+    {
+      "id": "rincon",
+      "name": "Rincón",
+      "coordinates": [
+        18.3394,
+        -67.25
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15.1,
+          "median_income": 18233,
+          "poverty_rate": 34.2
+        },
+        "education": {
+          "graduation_rate": 71.4,
+          "college_enrollment": 38.8,
+          "test_scores": 76.8
+        },
+        "family": {
+          "single_parent_households": 40.7,
+          "child_poverty": 37.2,
+          "teen_pregnancy": 13.8
+        },
+        "health": {
+          "insurance_coverage": 87.6,
+          "infant_mortality": 4.8,
+          "life_expectancy": 85
+        },
+        "safety": {
+          "crime_rate": 239,
+          "domestic_violence": 60.8,
+          "drug_related_crimes": 193.7
+        }
+      }
+    },
+    {
+      "id": "rio grande",
+      "name": "Río Grande",
+      "coordinates": [
+        18.38,
+        -65.8169
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 11.4,
+          "median_income": 18543,
+          "poverty_rate": 54.1
+        },
+        "education": {
+          "graduation_rate": 64.6,
+          "college_enrollment": 43.6,
+          "test_scores": 79
+        },
+        "family": {
+          "single_parent_households": 29.2,
+          "child_poverty": 51.7,
+          "teen_pregnancy": 17
+        },
+        "health": {
+          "insurance_coverage": 84.4,
+          "infant_mortality": 9,
+          "life_expectancy": 78.1
+        },
+        "safety": {
+          "crime_rate": 335.2,
+          "domestic_violence": 53.6,
+          "drug_related_crimes": 181.2
+        }
+      }
+    },
+    {
+      "id": "sabana grande",
+      "name": "Sabana Grande",
+      "coordinates": [
+        18.0802,
+        -66.9564
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 11.7,
+          "median_income": 34010,
+          "poverty_rate": 36.1
+        },
+        "education": {
+          "graduation_rate": 72.3,
+          "college_enrollment": 60.6,
+          "test_scores": 62.8
+        },
+        "family": {
+          "single_parent_households": 43,
+          "child_poverty": 33.2,
+          "teen_pregnancy": 19.5
+        },
+        "health": {
+          "insurance_coverage": 83.7,
+          "infant_mortality": 9.2,
+          "life_expectancy": 81
+        },
+        "safety": {
+          "crime_rate": 308.3,
+          "domestic_violence": 142.2,
+          "drug_related_crimes": 112.1
+        }
+      }
+    },
+    {
+      "id": "salinas",
+      "name": "Salinas",
+      "coordinates": [
+        17.9722,
+        -66.2972
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 10.7,
+          "median_income": 24006,
+          "poverty_rate": 49.4
+        },
+        "education": {
+          "graduation_rate": 66.3,
+          "college_enrollment": 44.4,
+          "test_scores": 76.7
+        },
+        "family": {
+          "single_parent_households": 28.9,
+          "child_poverty": 63.1,
+          "teen_pregnancy": 15.5
+        },
+        "health": {
+          "insurance_coverage": 82.7,
+          "infant_mortality": 2,
+          "life_expectancy": 79.3
+        },
+        "safety": {
+          "crime_rate": 307.5,
+          "domestic_violence": 89.2,
+          "drug_related_crimes": 67.4
+        }
+      }
+    },
+    {
+      "id": "san german",
+      "name": "San Germán",
+      "coordinates": [
+        18.0808,
+        -67.0455
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.3,
+          "median_income": 38859,
+          "poverty_rate": 40.9
+        },
+        "education": {
+          "graduation_rate": 71,
+          "college_enrollment": 42.5,
+          "test_scores": 76.7
+        },
+        "family": {
+          "single_parent_households": 47.5,
+          "child_poverty": 49.1,
+          "teen_pregnancy": 10.2
+        },
+        "health": {
+          "insurance_coverage": 92.2,
+          "infant_mortality": 10.8,
+          "life_expectancy": 80.7
+        },
+        "safety": {
+          "crime_rate": 381.2,
+          "domestic_violence": 95.3,
+          "drug_related_crimes": 143.5
+        }
+      }
+    },
+    {
+      "id": "san juan",
+      "name": "San Juan",
+      "coordinates": [
+        18.4655,
+        -66.1057
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.4,
+          "median_income": 31059,
+          "poverty_rate": 20.4
+        },
+        "education": {
+          "graduation_rate": 79.3,
+          "college_enrollment": 58.8,
+          "test_scores": 86
+        },
+        "family": {
+          "single_parent_households": 30.3,
+          "child_poverty": 54.9,
+          "teen_pregnancy": 15.4
+        },
+        "health": {
+          "insurance_coverage": 93.2,
+          "infant_mortality": 2.4,
+          "life_expectancy": 83.4
+        },
+        "safety": {
+          "crime_rate": 123.9,
+          "domestic_violence": 112.2,
+          "drug_related_crimes": 156.6
+        }
+      }
+    },
+    {
+      "id": "san lorenzo",
+      "name": "San Lorenzo",
+      "coordinates": [
+        18.1908,
+        -65.9727
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 5.8,
+          "median_income": 36980,
+          "poverty_rate": 38.5
+        },
+        "education": {
+          "graduation_rate": 89.5,
+          "college_enrollment": 36.6,
+          "test_scores": 80.8
+        },
+        "family": {
+          "single_parent_households": 20.6,
+          "child_poverty": 33.2,
+          "teen_pregnancy": 19.3
+        },
+        "health": {
+          "insurance_coverage": 89.2,
+          "infant_mortality": 6.2,
+          "life_expectancy": 77.9
+        },
+        "safety": {
+          "crime_rate": 362.1,
+          "domestic_violence": 68.6,
+          "drug_related_crimes": 59.6
+        }
+      }
+    },
+    {
+      "id": "san sebastian",
+      "name": "San Sebastián",
+      "coordinates": [
+        18.3439,
+        -66.9932
+      ],
+      "region": "Oeste",
+      "data": {
+        "economy": {
+          "unemployment_rate": 17.8,
+          "median_income": 36763,
+          "poverty_rate": 20.3
+        },
+        "education": {
+          "graduation_rate": 69.8,
+          "college_enrollment": 63.5,
+          "test_scores": 78.2
+        },
+        "family": {
+          "single_parent_households": 38.9,
+          "child_poverty": 43,
+          "teen_pregnancy": 23.8
+        },
+        "health": {
+          "insurance_coverage": 89.1,
+          "infant_mortality": 7.2,
+          "life_expectancy": 80.1
+        },
+        "safety": {
+          "crime_rate": 272.8,
+          "domestic_violence": 59.7,
+          "drug_related_crimes": 156.5
+        }
+      }
+    },
+    {
+      "id": "santa isabel",
+      "name": "Santa Isabel",
+      "coordinates": [
+        17.9661,
+        -66.4041
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 15.5,
+          "median_income": 22829,
+          "poverty_rate": 36.7
+        },
+        "education": {
+          "graduation_rate": 89.2,
+          "college_enrollment": 30.9,
+          "test_scores": 80.3
+        },
+        "family": {
+          "single_parent_households": 32,
+          "child_poverty": 34.5,
+          "teen_pregnancy": 21.3
+        },
+        "health": {
+          "insurance_coverage": 80.8,
+          "infant_mortality": 8,
+          "life_expectancy": 82.6
+        },
+        "safety": {
+          "crime_rate": 308.2,
+          "domestic_violence": 121.5,
+          "drug_related_crimes": 198.7
+        }
+      }
+    },
+    {
+      "id": "toa alta",
+      "name": "Toa Alta",
+      "coordinates": [
+        18.3883,
+        -66.2483
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 17.5,
+          "median_income": 16856,
+          "poverty_rate": 26.7
+        },
+        "education": {
+          "graduation_rate": 66.2,
+          "college_enrollment": 55.1,
+          "test_scores": 67.6
+        },
+        "family": {
+          "single_parent_households": 21.5,
+          "child_poverty": 67,
+          "teen_pregnancy": 22.5
+        },
+        "health": {
+          "insurance_coverage": 82.9,
+          "infant_mortality": 9.5,
+          "life_expectancy": 80.7
+        },
+        "safety": {
+          "crime_rate": 163.3,
+          "domestic_violence": 57,
+          "drug_related_crimes": 82.6
+        }
+      }
+    },
+    {
+      "id": "toa baja",
+      "name": "Toa Baja",
+      "coordinates": [
+        18.4447,
+        -66.2586
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 18.3,
+          "median_income": 17983,
+          "poverty_rate": 41.1
+        },
+        "education": {
+          "graduation_rate": 72.2,
+          "college_enrollment": 41.3,
+          "test_scores": 85.5
+        },
+        "family": {
+          "single_parent_households": 20.6,
+          "child_poverty": 67.9,
+          "teen_pregnancy": 24.9
+        },
+        "health": {
+          "insurance_coverage": 83.5,
+          "infant_mortality": 11.6,
+          "life_expectancy": 83
+        },
+        "safety": {
+          "crime_rate": 180.7,
+          "domestic_violence": 66,
+          "drug_related_crimes": 190.4
+        }
+      }
+    },
+    {
+      "id": "trujillo alto",
+      "name": "Trujillo Alto",
+      "coordinates": [
+        18.3547,
+        -66.0072
+      ],
+      "region": "Metro",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.5,
+          "median_income": 33662,
+          "poverty_rate": 44.7
+        },
+        "education": {
+          "graduation_rate": 67.1,
+          "college_enrollment": 42.6,
+          "test_scores": 75.3
+        },
+        "family": {
+          "single_parent_households": 49,
+          "child_poverty": 48.9,
+          "teen_pregnancy": 19.5
+        },
+        "health": {
+          "insurance_coverage": 94.3,
+          "infant_mortality": 5,
+          "life_expectancy": 82.7
+        },
+        "safety": {
+          "crime_rate": 326.8,
+          "domestic_violence": 63.3,
+          "drug_related_crimes": 111.1
+        }
+      }
+    },
+    {
+      "id": "utuado",
+      "name": "Utuado",
+      "coordinates": [
+        18.2664,
+        -66.7005
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.2,
+          "median_income": 19342,
+          "poverty_rate": 46.5
+        },
+        "education": {
+          "graduation_rate": 63.2,
+          "college_enrollment": 30.8,
+          "test_scores": 88
+        },
+        "family": {
+          "single_parent_households": 29.9,
+          "child_poverty": 31.2,
+          "teen_pregnancy": 8.2
+        },
+        "health": {
+          "insurance_coverage": 89.3,
+          "infant_mortality": 9.5,
+          "life_expectancy": 83.5
+        },
+        "safety": {
+          "crime_rate": 228.1,
+          "domestic_violence": 100.7,
+          "drug_related_crimes": 121.7
+        }
+      }
+    },
+    {
+      "id": "vega alta",
+      "name": "Vega Alta",
+      "coordinates": [
+        18.4125,
+        -66.3291
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8,
+          "median_income": 32411,
+          "poverty_rate": 42.8
+        },
+        "education": {
+          "graduation_rate": 77.6,
+          "college_enrollment": 44.6,
+          "test_scores": 61.4
+        },
+        "family": {
+          "single_parent_households": 22.4,
+          "child_poverty": 67.6,
+          "teen_pregnancy": 24.9
+        },
+        "health": {
+          "insurance_coverage": 87.5,
+          "infant_mortality": 3.8,
+          "life_expectancy": 83
+        },
+        "safety": {
+          "crime_rate": 168.3,
+          "domestic_violence": 69.2,
+          "drug_related_crimes": 170.9
+        }
+      }
+    },
+    {
+      "id": "vega baja",
+      "name": "Vega Baja",
+      "coordinates": [
+        18.4449,
+        -66.3872
+      ],
+      "region": "Norte",
+      "data": {
+        "economy": {
+          "unemployment_rate": 8.6,
+          "median_income": 34872,
+          "poverty_rate": 26.2
+        },
+        "education": {
+          "graduation_rate": 60.4,
+          "college_enrollment": 42.8,
+          "test_scores": 72.5
+        },
+        "family": {
+          "single_parent_households": 27.2,
+          "child_poverty": 62.8,
+          "teen_pregnancy": 22
+        },
+        "health": {
+          "insurance_coverage": 81.9,
+          "infant_mortality": 4.2,
+          "life_expectancy": 75.4
+        },
+        "safety": {
+          "crime_rate": 125.7,
+          "domestic_violence": 111.5,
+          "drug_related_crimes": 89.2
+        }
+      }
+    },
+    {
+      "id": "vieques",
+      "name": "Vieques",
+      "coordinates": [
+        18.1486,
+        -65.4378
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 13.2,
+          "median_income": 26489,
+          "poverty_rate": 20.8
+        },
+        "education": {
+          "graduation_rate": 69.9,
+          "college_enrollment": 39.3,
+          "test_scores": 65.1
+        },
+        "family": {
+          "single_parent_households": 30.9,
+          "child_poverty": 65.4,
+          "teen_pregnancy": 20.6
+        },
+        "health": {
+          "insurance_coverage": 87.2,
+          "infant_mortality": 5.1,
+          "life_expectancy": 82.4
+        },
+        "safety": {
+          "crime_rate": 321.9,
+          "domestic_violence": 80.2,
+          "drug_related_crimes": 138.9
+        }
+      }
+    },
+    {
+      "id": "villalba",
+      "name": "Villalba",
+      "coordinates": [
+        18.1217,
+        -66.4855
+      ],
+      "region": "Central",
+      "data": {
+        "economy": {
+          "unemployment_rate": 12.1,
+          "median_income": 15030,
+          "poverty_rate": 37.7
+        },
+        "education": {
+          "graduation_rate": 74,
+          "college_enrollment": 54.6,
+          "test_scores": 83
+        },
+        "family": {
+          "single_parent_households": 38.5,
+          "child_poverty": 53.7,
+          "teen_pregnancy": 20.6
+        },
+        "health": {
+          "insurance_coverage": 91.9,
+          "infant_mortality": 10,
+          "life_expectancy": 80
+        },
+        "safety": {
+          "crime_rate": 338.5,
+          "domestic_violence": 107.9,
+          "drug_related_crimes": 79.1
+        }
+      }
+    },
+    {
+      "id": "yabucoa",
+      "name": "Yabucoa",
+      "coordinates": [
+        18.0508,
+        -65.8783
+      ],
+      "region": "Este",
+      "data": {
+        "economy": {
+          "unemployment_rate": 14.5,
+          "median_income": 29255,
+          "poverty_rate": 25.9
+        },
+        "education": {
+          "graduation_rate": 78.7,
+          "college_enrollment": 63.9,
+          "test_scores": 64.8
+        },
+        "family": {
+          "single_parent_households": 48.7,
+          "child_poverty": 30.8,
+          "teen_pregnancy": 5.2
+        },
+        "health": {
+          "insurance_coverage": 82.1,
+          "infant_mortality": 2.4,
+          "life_expectancy": 82.8
+        },
+        "safety": {
+          "crime_rate": 121.7,
+          "domestic_violence": 134.1,
+          "drug_related_crimes": 111.1
+        }
+      }
+    },
+    {
+      "id": "yauco",
+      "name": "Yauco",
+      "coordinates": [
+        18.0346,
+        -66.8619
+      ],
+      "region": "Sur",
+      "data": {
+        "economy": {
+          "unemployment_rate": 10.1,
+          "median_income": 24031,
+          "poverty_rate": 23.5
+        },
+        "education": {
+          "graduation_rate": 60.4,
+          "college_enrollment": 58.3,
+          "test_scores": 63.8
+        },
+        "family": {
+          "single_parent_households": 33.9,
+          "child_poverty": 60.3,
+          "teen_pregnancy": 15.2
+        },
+        "health": {
+          "insurance_coverage": 82.6,
+          "infant_mortality": 4.4,
+          "life_expectancy": 76.5
+        },
+        "safety": {
+          "crime_rate": 118.4,
+          "domestic_violence": 114.6,
+          "drug_related_crimes": 188.1
+        }
+      }
+    }
+  ]
+}
