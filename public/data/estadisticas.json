@@ -12,7 +12,8 @@
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
         "Indicador":"Población femenina entre 0 y 17 años",
-        "Valor":"266,954"
+        "Valor":"266,954",
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Salud",
