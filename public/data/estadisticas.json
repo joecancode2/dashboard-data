@@ -1,0 +1,457 @@
+[
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población entre 0 y 17 años",
+        "Valor": "543,936"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población femenina entre 0 y 17 años",
+        "Valor": "266,954"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población masculina entre 0 y 17 años",
+        "Valor": "276,982"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población de niños y niñas entre 0 y 4 años",
+        "Valor": "107,055"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población de niños y niñas entre 5 y 9 años",
+        "Valor": "142,141"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población de niños y niñas entre 10 y 14 años",
+        "Valor": "179,844"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población de adolescentes y jóvenes entre 15 y 19 años",
+        "Valor": "196,328"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población de jóvenes y adultos entre 20 y 24 años",
+        "Valor": "217,453"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Total poblacional",
+        "Valor": "3,254,885"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores de 18 años con diversidad funcional",
+        "Valor": "9.3%"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores sin Plan Médico",
+        "Valor": "3.0%"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Total de nacimientos",
+        "Valor": "18,645"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Adolescentes menores de 15 años que dieron a luz",
+        "Valor": "4"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Jóvenes entre 15 y 19 años que dieron a luz",
+        "Valor": "1,134"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Bebés prematuros",
+        "Valor": "2,282"
+    },
+    {
+        "Dimensión": "Salud",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños y niñas con muy bajo peso al nacer",
+        "Valor": "306"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Tasa de mortalidad de niños, niñas y jóvenes de 0 a 19 años",
+        "Valor": "47"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Madres adolescentes que ya eran madres",
+        "Valor": "15.9%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Nacimiento en madres que recibieron cuidado prenatal desde su primer trimestre de gestación",
+        "Valor": "84.6%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Nacimiento en madres que recibieron cuidado prenatal a partir del segundo trimestre de gestación",
+        "Valor": "11.2%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Nacimiento en madres que recibieron cuidado prenatal a partir del tercer trimestre de gestación",
+        "Valor": "2.2%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Madres que fumaron durante el embarazo",
+        "Valor": "21"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Población bajo el nivel de pobreza",
+        "Valor": "41.6%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores bajo el nivel de pobreza",
+        "Valor": "55.6%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores entre 0 y 5 años de edad bajo el nivel de pobreza",
+        "Valor": "59.6%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores entre 6 y 11 años bajo el nivel de pobreza",
+        "Valor": "58.0%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores entre 12 y 17 años bajo el nivel de pobreza",
+        "Valor": "51.3%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Jóvenes entre 18 y 24 años bajo el nivel de pobreza",
+        "Valor": "41.6%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Familias con menores de 18 bajo el nivel de pobreza",
+        "Valor": "49.3%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Familias monoparentales lideradas por mujeres con menores de 18 años bajo el nivel de pobreza",
+        "Valor": "67.3%"
+    },
+    {
+        "Dimensión": "Educación",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Familias de matrimonios con menores de 18 años bajo el nivel de pobreza",
+        "Valor": "25.5%"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Abuelas/os que viven con sus nietos/as menores de 18 años y están a cargo de sus necesidades bajo el nivel de pobreza",
+        "Valor": "52.4%"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Mediana de ingresos de matrimonios con menores 18 años",
+        "Valor": "$51,964.00"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Mediana de ingresos de familas monoparentales lideradas por mujeres con menores de 18 años",
+        "Valor": "$12,914.00"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Mediana de ingresos de familias monoparentales lideradas por hombres con menores de 18 años",
+        "Valor": "$20,787.00"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Mediana de ingresos de abuelos/as que viven y están a cargo de sus nietos/as menores de 18 años",
+        "Valor": "$26,504.00"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Matrimonios con menores de 18 años en donde ambos padres NO están en la fuerza laboral",
+        "Valor": "7.3%"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Familias monoparentales lideradas por hombres con niños menores de 18 años donde el padre no participa del campo laboral",
+        "Valor": "14.9%"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Familias monoparentales lideradas por mujeres con niños menores de 18 años donde la madre no participa del campo laboral",
+        "Valor": "31.1%"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Matrimonios con menores de 18 años en donde ambos padres estaban en la fuerza laboral",
+        "Valor": "60.0%"
+    },
+    {
+        "Dimensión": "Familia",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Niños/as de 3 a 4 años no matriculados en la escuela",
+        "Valor": "41.7%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Niños, niñas y jóvenes de 3 a 17 años no matriculados en la escuela",
+        "Valor": "6.5%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Mujeres (15 a 50 años) que dieron a luz y no tienene cuarto año",
+        "Valor": "6.3%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Jóvenes 18 a 24 años matriculados en universidad o escuela graduada",
+        "Valor": "49.7%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Matrimonios con menores de 18 años",
+        "Valor": "39.9%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Madres solteras-jefas de familia con menores de 18 años",
+        "Valor": "47.0%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Padres solteros-jefes de familia con menores de 18 años",
+        "Valor": "13.1%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores que viven con personas que no son sus familiares",
+        "Valor": "0.7%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Hogares ocupados con menores de 18 años",
+        "Valor": "260,866"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores de 0 a 17 años en hogares donde los ocupantes son dueños del hogar",
+        "Valor": "53.6%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2019-2023",
+        "Indicador": "Menores de 0 a 17 años en hogares donde los ocupantes arriendan el hogar",
+        "Valor": "46.4%"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato por abuso sexual",
+        "Valor": "92"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato por explotación",
+        "Valor": "14"
+    },
+    {
+        "Dimensión": "Economía",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato físico",
+        "Valor": "1,031"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia",
+        "Valor": "2,899"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia educativa",
+        "Valor": "1,095"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia emocional",
+        "Valor": "2,567"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia médica",
+        "Valor": "836"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltratos por abuso sexual en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "1.1%"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltratos por explotación en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "0.2%"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltratos físicos en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "12.0%"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltratos por negligencia en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "33.8%"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltratos por negligencia médica en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "9.8%"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltratos por negligencia educativa en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "12.8%"
+    },
+    {
+        "Dimensión": "Seguridad",
+        "Estado": "Puerto Rico",
+        "Año": "2023",
+        "Indicador": "Maltrato por neglicencia emocional en niños, niñas y jóvenes para los que se ha confirmado han sido maltratados",
+        "Valor": "30.0%"
+    }
+]
