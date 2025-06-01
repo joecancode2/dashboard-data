@@ -1,0 +1,634 @@
+[
+    {
+        "Nombre": "Puerto Rico",
+        "Tasa de mortalidad infantil": 7,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 5.8,
+        "Es territorio completo": true
+    },
+    {
+        "Nombre": "Adjuntas",
+        "Tasa de mortalidad infantil": 10,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguada",
+        "Tasa de mortalidad infantil": 11,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 5.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguadilla",
+        "Tasa de mortalidad infantil": 3,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguas Buenas",
+        "Tasa de mortalidad infantil": 8,
+        "Nacimientos bajo peso": "3%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aibonito",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "8%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "AÃ±asco",
+        "Tasa de mortalidad infantil": 33,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arecibo",
+        "Tasa de mortalidad infantil": 9,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arroyo",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barceloneta",
+        "Tasa de mortalidad infantil": 14,
+        "Nacimientos bajo peso": "8%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barranquitas",
+        "Tasa de mortalidad infantil": 10,
+        "Nacimientos bajo peso": "9%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 16.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "BayamÃ³n",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cabo Rojo",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "15%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Caguas",
+        "Tasa de mortalidad infantil": 8,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Camuy",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 4.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "CanÃ³vanas",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Carolina",
+        "Tasa de mortalidad infantil": 2,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "CataÃ±o",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 24.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cayey",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ceiba",
+        "Tasa de mortalidad infantil": 39,
+        "Nacimientos bajo peso": "18%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 21.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ciales",
+        "Tasa de mortalidad infantil": 12,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 15.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cidra",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 15.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Coamo",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ComerÃ­o",
+        "Tasa de mortalidad infantil": 10,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 16.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Corozal",
+        "Tasa de mortalidad infantil": 24,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 20.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Culebra",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "6%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 21.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Dorado",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Fajardo",
+        "Tasa de mortalidad infantil": 10,
+        "Nacimientos bajo peso": "16%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Florida",
+        "Tasa de mortalidad infantil": 14,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "GuÃ¡nica",
+        "Tasa de mortalidad infantil": 12,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayama",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 16.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayanilla",
+        "Tasa de mortalidad infantil": 9,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guaynabo",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "9%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Gurabo",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "7%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hatillo",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hormigueros",
+        "Tasa de mortalidad infantil": 13,
+        "Nacimientos bajo peso": "18%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 2.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Humacao",
+        "Tasa de mortalidad infantil": 13,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Isabela",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Jayuya",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "18%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 27.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juana DÃ­az",
+        "Tasa de mortalidad infantil": 11,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juncos",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lajas",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lares",
+        "Tasa de mortalidad infantil": 16,
+        "Nacimientos bajo peso": "6%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las MarÃ­as",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "18%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 4.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las Piedras",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "15%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "LoÃ­za",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 20.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Luquillo",
+        "Tasa de mortalidad infantil": 10,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ManatÃ­",
+        "Tasa de mortalidad infantil": 12,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "14%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 20.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maricao",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "20%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 35.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maunabo",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "6%",
+        "Menores sin plan médico": "5%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "MayagÃ¼ez",
+        "Tasa de mortalidad infantil": 9,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Moca",
+        "Tasa de mortalidad infantil": 4,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 19.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Morovis",
+        "Tasa de mortalidad infantil": 21,
+        "Nacimientos bajo peso": "14%",
+        "Menores sin plan médico": "5%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naguabo",
+        "Tasa de mortalidad infantil": 7,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naranjito",
+        "Tasa de mortalidad infantil": 6,
+        "Nacimientos bajo peso": "9%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Orocovis",
+        "Tasa de mortalidad infantil": 16,
+        "Nacimientos bajo peso": "14%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 18.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Patillas",
+        "Tasa de mortalidad infantil": 24,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "PeÃ±uelas",
+        "Tasa de mortalidad infantil": 7,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 23.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ponce",
+        "Tasa de mortalidad infantil": 6,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Quebradillas",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 5.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RincÃ³n",
+        "Tasa de mortalidad infantil": 16,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "5%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RÃ­o Grande",
+        "Tasa de mortalidad infantil": 13,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 24.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Sabana Grande",
+        "Tasa de mortalidad infantil": 27,
+        "Nacimientos bajo peso": "18%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Salinas",
+        "Tasa de mortalidad infantil": 7,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San GermÃ¡n",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "8%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Juan",
+        "Tasa de mortalidad infantil": 10,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "4%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Lorenzo",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San SebastiÃ¡n",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 20.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Santa Isabel",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "12%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 15.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Alta",
+        "Tasa de mortalidad infantil": 3,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Baja",
+        "Tasa de mortalidad infantil": 3,
+        "Nacimientos bajo peso": "11%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Trujillo Alto",
+        "Tasa de mortalidad infantil": 3,
+        "Nacimientos bajo peso": "7%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Utuado",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "5%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Alta",
+        "Tasa de mortalidad infantil": 5,
+        "Nacimientos bajo peso": "9%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Baja",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "9%",
+        "Menores sin plan médico": "9%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vieques",
+        "Tasa de mortalidad infantil": 0,
+        "Nacimientos bajo peso": "13%",
+        "Menores sin plan médico": "0%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 52.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Villalba",
+        "Tasa de mortalidad infantil": 6,
+        "Nacimientos bajo peso": "9%",
+        "Menores sin plan médico": "1%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 20.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yabucoa",
+        "Tasa de mortalidad infantil": 13,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "2%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yauco",
+        "Tasa de mortalidad infantil": 6,
+        "Nacimientos bajo peso": "10%",
+        "Menores sin plan médico": "3%",
+        "Tasa de nacimientos en adolescentes de 15 a 19 años": 11.0,
+        "Es territorio completo": false
+    }
+]

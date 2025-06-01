@@ -1,0 +1,634 @@
+[
+    {
+        "Nombre": "Puerto Rico",
+        "Menores en familias monoparentales": "61%",
+        "Abuelos que viven y están a cargo de sus nietos": "34%",
+        "Hogares con menores que participan del PAN": "58%",
+        "Tasa de maltrato infantil": 8.9,
+        "Es territorio completo": true
+    },
+    {
+        "Nombre": "Adjuntas",
+        "Menores en familias monoparentales": "61%",
+        "Abuelos que viven y están a cargo de sus nietos": "16%",
+        "Hogares con menores que participan del PAN": "75%",
+        "Tasa de maltrato infantil": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguada",
+        "Menores en familias monoparentales": "59%",
+        "Abuelos que viven y están a cargo de sus nietos": "31%",
+        "Hogares con menores que participan del PAN": "65%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguadilla",
+        "Menores en familias monoparentales": "66%",
+        "Abuelos que viven y están a cargo de sus nietos": "25%",
+        "Hogares con menores que participan del PAN": "60%",
+        "Tasa de maltrato infantil": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguas Buenas",
+        "Menores en familias monoparentales": "63%",
+        "Abuelos que viven y están a cargo de sus nietos": "23%",
+        "Hogares con menores que participan del PAN": "71%",
+        "Tasa de maltrato infantil": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aibonito",
+        "Menores en familias monoparentales": "72%",
+        "Abuelos que viven y están a cargo de sus nietos": "35%",
+        "Hogares con menores que participan del PAN": "58%",
+        "Tasa de maltrato infantil": 20.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "AÃ±asco",
+        "Menores en familias monoparentales": "58%",
+        "Abuelos que viven y están a cargo de sus nietos": "39%",
+        "Hogares con menores que participan del PAN": "58%",
+        "Tasa de maltrato infantil": 7.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arecibo",
+        "Menores en familias monoparentales": "61%",
+        "Abuelos que viven y están a cargo de sus nietos": "24%",
+        "Hogares con menores que participan del PAN": "61%",
+        "Tasa de maltrato infantil": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arroyo",
+        "Menores en familias monoparentales": "77%",
+        "Abuelos que viven y están a cargo de sus nietos": "15%",
+        "Hogares con menores que participan del PAN": "69%",
+        "Tasa de maltrato infantil": 18.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barceloneta",
+        "Menores en familias monoparentales": "60%",
+        "Abuelos que viven y están a cargo de sus nietos": "36%",
+        "Hogares con menores que participan del PAN": "61%",
+        "Tasa de maltrato infantil": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barranquitas",
+        "Menores en familias monoparentales": "76%",
+        "Abuelos que viven y están a cargo de sus nietos": "38%",
+        "Hogares con menores que participan del PAN": "67%",
+        "Tasa de maltrato infantil": 7.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "BayamÃ³n",
+        "Menores en familias monoparentales": "63%",
+        "Abuelos que viven y están a cargo de sus nietos": "38%",
+        "Hogares con menores que participan del PAN": "49%",
+        "Tasa de maltrato infantil": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cabo Rojo",
+        "Menores en familias monoparentales": "56%",
+        "Abuelos que viven y están a cargo de sus nietos": "30%",
+        "Hogares con menores que participan del PAN": "51%",
+        "Tasa de maltrato infantil": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Caguas",
+        "Menores en familias monoparentales": "65%",
+        "Abuelos que viven y están a cargo de sus nietos": "34%",
+        "Hogares con menores que participan del PAN": "56%",
+        "Tasa de maltrato infantil": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Camuy",
+        "Menores en familias monoparentales": "42%",
+        "Abuelos que viven y están a cargo de sus nietos": "18%",
+        "Hogares con menores que participan del PAN": "62%",
+        "Tasa de maltrato infantil": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "CanÃ³vanas",
+        "Menores en familias monoparentales": "60%",
+        "Abuelos que viven y están a cargo de sus nietos": "35%",
+        "Hogares con menores que participan del PAN": "56%",
+        "Tasa de maltrato infantil": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Carolina",
+        "Menores en familias monoparentales": "66%",
+        "Abuelos que viven y están a cargo de sus nietos": "28%",
+        "Hogares con menores que participan del PAN": "47%",
+        "Tasa de maltrato infantil": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "CataÃ±o",
+        "Menores en familias monoparentales": "65%",
+        "Abuelos que viven y están a cargo de sus nietos": "48%",
+        "Hogares con menores que participan del PAN": "59%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cayey",
+        "Menores en familias monoparentales": "70%",
+        "Abuelos que viven y están a cargo de sus nietos": "54%",
+        "Hogares con menores que participan del PAN": "51%",
+        "Tasa de maltrato infantil": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ceiba",
+        "Menores en familias monoparentales": "64%",
+        "Abuelos que viven y están a cargo de sus nietos": "32%",
+        "Hogares con menores que participan del PAN": "64%",
+        "Tasa de maltrato infantil": 29.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ciales",
+        "Menores en familias monoparentales": "73%",
+        "Abuelos que viven y están a cargo de sus nietos": "37%",
+        "Hogares con menores que participan del PAN": "88%",
+        "Tasa de maltrato infantil": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cidra",
+        "Menores en familias monoparentales": "59%",
+        "Abuelos que viven y están a cargo de sus nietos": "29%",
+        "Hogares con menores que participan del PAN": "60%",
+        "Tasa de maltrato infantil": 10.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Coamo",
+        "Menores en familias monoparentales": "58%",
+        "Abuelos que viven y están a cargo de sus nietos": "35%",
+        "Hogares con menores que participan del PAN": "57%",
+        "Tasa de maltrato infantil": 16.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ComerÃ­o",
+        "Menores en familias monoparentales": "84%",
+        "Abuelos que viven y están a cargo de sus nietos": "34%",
+        "Hogares con menores que participan del PAN": "66%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Corozal",
+        "Menores en familias monoparentales": "61%",
+        "Abuelos que viven y están a cargo de sus nietos": "24%",
+        "Hogares con menores que participan del PAN": "65%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Culebra",
+        "Menores en familias monoparentales": "74%",
+        "Abuelos que viven y están a cargo de sus nietos": "17%",
+        "Hogares con menores que participan del PAN": "59%",
+        "Tasa de maltrato infantil": 0.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Dorado",
+        "Menores en familias monoparentales": "46%",
+        "Abuelos que viven y están a cargo de sus nietos": "34%",
+        "Hogares con menores que participan del PAN": "42%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Fajardo",
+        "Menores en familias monoparentales": "72%",
+        "Abuelos que viven y están a cargo de sus nietos": "43%",
+        "Hogares con menores que participan del PAN": "64%",
+        "Tasa de maltrato infantil": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Florida",
+        "Menores en familias monoparentales": "59%",
+        "Abuelos que viven y están a cargo de sus nietos": "54%",
+        "Hogares con menores que participan del PAN": "84%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "GuÃ¡nica",
+        "Menores en familias monoparentales": "74%",
+        "Abuelos que viven y están a cargo de sus nietos": "41%",
+        "Hogares con menores que participan del PAN": "78%",
+        "Tasa de maltrato infantil": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayama",
+        "Menores en familias monoparentales": "62%",
+        "Abuelos que viven y están a cargo de sus nietos": "30%",
+        "Hogares con menores que participan del PAN": "65%",
+        "Tasa de maltrato infantil": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayanilla",
+        "Menores en familias monoparentales": "71%",
+        "Abuelos que viven y están a cargo de sus nietos": "39%",
+        "Hogares con menores que participan del PAN": "60%",
+        "Tasa de maltrato infantil": 18.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guaynabo",
+        "Menores en familias monoparentales": "49%",
+        "Abuelos que viven y están a cargo de sus nietos": "29%",
+        "Hogares con menores que participan del PAN": "32%",
+        "Tasa de maltrato infantil": 5.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Gurabo",
+        "Menores en familias monoparentales": "51%",
+        "Abuelos que viven y están a cargo de sus nietos": "33%",
+        "Hogares con menores que participan del PAN": "37%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hatillo",
+        "Menores en familias monoparentales": "41%",
+        "Abuelos que viven y están a cargo de sus nietos": "29%",
+        "Hogares con menores que participan del PAN": "51%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hormigueros",
+        "Menores en familias monoparentales": "45%",
+        "Abuelos que viven y están a cargo de sus nietos": "36%",
+        "Hogares con menores que participan del PAN": "52%",
+        "Tasa de maltrato infantil": 16.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Humacao",
+        "Menores en familias monoparentales": "62%",
+        "Abuelos que viven y están a cargo de sus nietos": "33%",
+        "Hogares con menores que participan del PAN": "49%",
+        "Tasa de maltrato infantil": 22.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Isabela",
+        "Menores en familias monoparentales": "49%",
+        "Abuelos que viven y están a cargo de sus nietos": "26%",
+        "Hogares con menores que participan del PAN": "55%",
+        "Tasa de maltrato infantil": 3.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Jayuya",
+        "Menores en familias monoparentales": "77%",
+        "Abuelos que viven y están a cargo de sus nietos": "15%",
+        "Hogares con menores que participan del PAN": "80%",
+        "Tasa de maltrato infantil": 28.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juana DÃ­az",
+        "Menores en familias monoparentales": "58%",
+        "Abuelos que viven y están a cargo de sus nietos": "22%",
+        "Hogares con menores que participan del PAN": "52%",
+        "Tasa de maltrato infantil": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juncos",
+        "Menores en familias monoparentales": "70%",
+        "Abuelos que viven y están a cargo de sus nietos": "54%",
+        "Hogares con menores que participan del PAN": "61%",
+        "Tasa de maltrato infantil": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lajas",
+        "Menores en familias monoparentales": "77%",
+        "Abuelos que viven y están a cargo de sus nietos": "30%",
+        "Hogares con menores que participan del PAN": "65%",
+        "Tasa de maltrato infantil": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lares",
+        "Menores en familias monoparentales": "54%",
+        "Abuelos que viven y están a cargo de sus nietos": "34%",
+        "Hogares con menores que participan del PAN": "78%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las MarÃ­as",
+        "Menores en familias monoparentales": "58%",
+        "Abuelos que viven y están a cargo de sus nietos": "2%",
+        "Hogares con menores que participan del PAN": "66%",
+        "Tasa de maltrato infantil": 7.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las Piedras",
+        "Menores en familias monoparentales": "58%",
+        "Abuelos que viven y están a cargo de sus nietos": "51%",
+        "Hogares con menores que participan del PAN": "50%",
+        "Tasa de maltrato infantil": 18.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "LoÃ­za",
+        "Menores en familias monoparentales": "77%",
+        "Abuelos que viven y están a cargo de sus nietos": "22%",
+        "Hogares con menores que participan del PAN": "70%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Luquillo",
+        "Menores en familias monoparentales": "56%",
+        "Abuelos que viven y están a cargo de sus nietos": "27%",
+        "Hogares con menores que participan del PAN": "60%",
+        "Tasa de maltrato infantil": 15.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ManatÃ­",
+        "Menores en familias monoparentales": "72%",
+        "Abuelos que viven y están a cargo de sus nietos": "52%",
+        "Hogares con menores que participan del PAN": "53%",
+        "Tasa de maltrato infantil": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maricao",
+        "Menores en familias monoparentales": "70%",
+        "Abuelos que viven y están a cargo de sus nietos": "23%",
+        "Hogares con menores que participan del PAN": "69%",
+        "Tasa de maltrato infantil": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maunabo",
+        "Menores en familias monoparentales": "78%",
+        "Abuelos que viven y están a cargo de sus nietos": "61%",
+        "Hogares con menores que participan del PAN": "67%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "MayagÃ¼ez",
+        "Menores en familias monoparentales": "70%",
+        "Abuelos que viven y están a cargo de sus nietos": "31%",
+        "Hogares con menores que participan del PAN": "70%",
+        "Tasa de maltrato infantil": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Moca",
+        "Menores en familias monoparentales": "60%",
+        "Abuelos que viven y están a cargo de sus nietos": "2%",
+        "Hogares con menores que participan del PAN": "62%",
+        "Tasa de maltrato infantil": 4.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Morovis",
+        "Menores en familias monoparentales": "65%",
+        "Abuelos que viven y están a cargo de sus nietos": "23%",
+        "Hogares con menores que participan del PAN": "64%",
+        "Tasa de maltrato infantil": 11.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naguabo",
+        "Menores en familias monoparentales": "64%",
+        "Abuelos que viven y están a cargo de sus nietos": "34%",
+        "Hogares con menores que participan del PAN": "73%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naranjito",
+        "Menores en familias monoparentales": "75%",
+        "Abuelos que viven y están a cargo de sus nietos": "29%",
+        "Hogares con menores que participan del PAN": "72%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Orocovis",
+        "Menores en familias monoparentales": "66%",
+        "Abuelos que viven y están a cargo de sus nietos": "50%",
+        "Hogares con menores que participan del PAN": "66%",
+        "Tasa de maltrato infantil": 17.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Patillas",
+        "Menores en familias monoparentales": "62%",
+        "Abuelos que viven y están a cargo de sus nietos": "47%",
+        "Hogares con menores que participan del PAN": "68%",
+        "Tasa de maltrato infantil": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "PeÃ±uelas",
+        "Menores en familias monoparentales": "64%",
+        "Abuelos que viven y están a cargo de sus nietos": "22%",
+        "Hogares con menores que participan del PAN": "71%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ponce",
+        "Menores en familias monoparentales": "69%",
+        "Abuelos que viven y están a cargo de sus nietos": "20%",
+        "Hogares con menores que participan del PAN": "69%",
+        "Tasa de maltrato infantil": 15.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Quebradillas",
+        "Menores en familias monoparentales": "54%",
+        "Abuelos que viven y están a cargo de sus nietos": "53%",
+        "Hogares con menores que participan del PAN": "63%",
+        "Tasa de maltrato infantil": 7.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RincÃ³n",
+        "Menores en familias monoparentales": "55%",
+        "Abuelos que viven y están a cargo de sus nietos": "54%",
+        "Hogares con menores que participan del PAN": "53%",
+        "Tasa de maltrato infantil": 4.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RÃ­o Grande",
+        "Menores en familias monoparentales": "60%",
+        "Abuelos que viven y están a cargo de sus nietos": "43%",
+        "Hogares con menores que participan del PAN": "53%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Sabana Grande",
+        "Menores en familias monoparentales": "65%",
+        "Abuelos que viven y están a cargo de sus nietos": "36%",
+        "Hogares con menores que participan del PAN": "48%",
+        "Tasa de maltrato infantil": 13.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Salinas",
+        "Menores en familias monoparentales": "69%",
+        "Abuelos que viven y están a cargo de sus nietos": "37%",
+        "Hogares con menores que participan del PAN": "59%",
+        "Tasa de maltrato infantil": 5.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San GermÃ¡n",
+        "Menores en familias monoparentales": "67%",
+        "Abuelos que viven y están a cargo de sus nietos": "29%",
+        "Hogares con menores que participan del PAN": "74%",
+        "Tasa de maltrato infantil": 18.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Juan",
+        "Menores en familias monoparentales": "70%",
+        "Abuelos que viven y están a cargo de sus nietos": "31%",
+        "Hogares con menores que participan del PAN": "55%",
+        "Tasa de maltrato infantil": 12.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Lorenzo",
+        "Menores en familias monoparentales": "71%",
+        "Abuelos que viven y están a cargo de sus nietos": "41%",
+        "Hogares con menores que participan del PAN": "51%",
+        "Tasa de maltrato infantil": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San SebastiÃ¡n",
+        "Menores en familias monoparentales": "57%",
+        "Abuelos que viven y están a cargo de sus nietos": "36%",
+        "Hogares con menores que participan del PAN": "72%",
+        "Tasa de maltrato infantil": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Santa Isabel",
+        "Menores en familias monoparentales": "61%",
+        "Abuelos que viven y están a cargo de sus nietos": "40%",
+        "Hogares con menores que participan del PAN": "55%",
+        "Tasa de maltrato infantil": 16.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Alta",
+        "Menores en familias monoparentales": "58%",
+        "Abuelos que viven y están a cargo de sus nietos": "37%",
+        "Hogares con menores que participan del PAN": "45%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Baja",
+        "Menores en familias monoparentales": "66%",
+        "Abuelos que viven y están a cargo de sus nietos": "56%",
+        "Hogares con menores que participan del PAN": "50%",
+        "Tasa de maltrato infantil": 6.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Trujillo Alto",
+        "Menores en familias monoparentales": "49%",
+        "Abuelos que viven y están a cargo de sus nietos": "41%",
+        "Hogares con menores que participan del PAN": "45%",
+        "Tasa de maltrato infantil": 8.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Utuado",
+        "Menores en familias monoparentales": "60%",
+        "Abuelos que viven y están a cargo de sus nietos": "24%",
+        "Hogares con menores que participan del PAN": "70%",
+        "Tasa de maltrato infantil": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Alta",
+        "Menores en familias monoparentales": "57%",
+        "Abuelos que viven y están a cargo de sus nietos": "35%",
+        "Hogares con menores que participan del PAN": "54%",
+        "Tasa de maltrato infantil": 5.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Baja",
+        "Menores en familias monoparentales": "65%",
+        "Abuelos que viven y están a cargo de sus nietos": "29%",
+        "Hogares con menores que participan del PAN": "56%",
+        "Tasa de maltrato infantil": 5.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vieques",
+        "Menores en familias monoparentales": "90%",
+        "Abuelos que viven y están a cargo de sus nietos": "57%",
+        "Hogares con menores que participan del PAN": "57%",
+        "Tasa de maltrato infantil": 18.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Villalba",
+        "Menores en familias monoparentales": "64%",
+        "Abuelos que viven y están a cargo de sus nietos": "37%",
+        "Hogares con menores que participan del PAN": "58%",
+        "Tasa de maltrato infantil": 9.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yabucoa",
+        "Menores en familias monoparentales": "70%",
+        "Abuelos que viven y están a cargo de sus nietos": "39%",
+        "Hogares con menores que participan del PAN": "73%",
+        "Tasa de maltrato infantil": 14.0,
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yauco",
+        "Menores en familias monoparentales": "52%",
+        "Abuelos que viven y están a cargo de sus nietos": "17%",
+        "Hogares con menores que participan del PAN": "49%",
+        "Tasa de maltrato infantil": 9.0,
+        "Es territorio completo": false
+    }
+]

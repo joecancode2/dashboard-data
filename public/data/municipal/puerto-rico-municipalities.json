@@ -1,0 +1,785 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adjuntas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.7227, 18.1627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1879, 18.3796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1538, 18.4308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguas Buenas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1047, 18.2574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aibonito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2651, 18.1396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Añasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1454, 18.2834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arecibo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.6167, 18.4359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arroyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.0616, 17.9666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barceloneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.5387, 18.4506]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barranquitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.3067, 18.1877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayamón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1552, 18.3796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabo Rojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1454, 18.0877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caguas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.0387, 18.2341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camuy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.8477, 18.4839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canóvanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.9012, 18.3784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.9573, 18.4081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cataño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1172, 18.4382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1683, 18.1126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceiba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.6486, 18.2625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.4687, 18.3364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cidra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1617, 18.1761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.3568, 18.0807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comerío"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2261, 18.2177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corozal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.3171, 18.3397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culebra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.3016, 18.3032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2591, 18.4589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fajardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.6513, 18.3254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.5687, 18.3614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guánica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9085, 17.9709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guayama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1136, 17.9837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guayanilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.7933, 18.0184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guaynabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1127, 18.3577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gurabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.9731, 18.2544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hatillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.8226, 18.4861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hormigueros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1283, 18.1396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humacao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.8274, 18.1499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isabela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.0244, 18.5007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jayuya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.5916, 18.2177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juana Díaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.5061, 18.0529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juncos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.9208, 18.2249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lajas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.0579, 18.0491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.8779, 18.2947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Marías"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9948, 18.2518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Las Piedras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.8684, 18.1819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loíza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.8774, 18.4312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luquillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.7172, 18.3697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manatí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.4917, 18.4297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maricao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9803, 18.1806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maunabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.8999, 18.0054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mayagüez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1396, 18.2011]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1123, 18.3954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morovis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.4064, 18.3254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naguabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.7348, 18.2119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naranjito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2471, 18.3019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orocovis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.3895, 18.2249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patillas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.0136, 18.0077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peñuelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.7227, 18.0579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.6201, 18.0118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quebradillas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9336, 18.4747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rincón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.2504, 18.3403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Río Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.7938, 18.3792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sabana Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9586, 18.0774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salinas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2969, 17.9771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Germán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.0499, 18.0809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1057, 18.4655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Lorenzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.9614, 18.1873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.9914, 18.3364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Isabel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.4042, 17.9662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toa Alta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2486, 18.3886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toa Baja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.2609, 18.4431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trujillo Alto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.0072, 18.3535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utuado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.7001, 18.2661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vega Alta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.3314, 18.4114]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vega Baja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.3895, 18.4456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vieques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.4423, 18.1263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villalba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.4917, 18.1263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yabucoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.8774, 18.0513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yauco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.8583, 18.0357]
+      }
+    }
+  ]
+}

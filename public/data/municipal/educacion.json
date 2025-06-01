@@ -1,0 +1,634 @@
+[
+    {
+        "Nombre": "Puerto Rico",
+        "Menores de 3 y 4 años no matriculados en la escuela": "37%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "8%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": true
+    },
+    {
+        "Nombre": "Adjuntas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "55%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "43%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguada",
+        "Menores de 3 y 4 años no matriculados en la escuela": "73%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "13%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguadilla",
+        "Menores de 3 y 4 años no matriculados en la escuela": "62%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "7%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "9%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguas Buenas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "51%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "19%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aibonito",
+        "Menores de 3 y 4 años no matriculados en la escuela": "62%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "AÃ±asco",
+        "Menores de 3 y 4 años no matriculados en la escuela": "70%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "100%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arecibo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "33%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "4%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arroyo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "20%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "8%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barceloneta",
+        "Menores de 3 y 4 años no matriculados en la escuela": "33%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "24%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barranquitas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "58%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "8%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "BayamÃ³n",
+        "Menores de 3 y 4 años no matriculados en la escuela": "34%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "7%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cabo Rojo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "46%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "11%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Caguas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "42%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "7%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "9%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Camuy",
+        "Menores de 3 y 4 años no matriculados en la escuela": "63%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "12%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "CanÃ³vanas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "12%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "3%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "2%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Carolina",
+        "Menores de 3 y 4 años no matriculados en la escuela": "37%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "3%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "CataÃ±o",
+        "Menores de 3 y 4 años no matriculados en la escuela": "47%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "12%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "10%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cayey",
+        "Menores de 3 y 4 años no matriculados en la escuela": "23%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "3%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ceiba",
+        "Menores de 3 y 4 años no matriculados en la escuela": "30%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "8%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "14%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ciales",
+        "Menores de 3 y 4 años no matriculados en la escuela": "40%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "22%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "12%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cidra",
+        "Menores de 3 y 4 años no matriculados en la escuela": "29%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Coamo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "41%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ComerÃ­o",
+        "Menores de 3 y 4 años no matriculados en la escuela": "47%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Corozal",
+        "Menores de 3 y 4 años no matriculados en la escuela": "32%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "16%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Culebra",
+        "Menores de 3 y 4 años no matriculados en la escuela": "100%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "11%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "100%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "15%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Dorado",
+        "Menores de 3 y 4 años no matriculados en la escuela": "31%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Fajardo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "36%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "3%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Florida",
+        "Menores de 3 y 4 años no matriculados en la escuela": "24%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "3%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "GuÃ¡nica",
+        "Menores de 3 y 4 años no matriculados en la escuela": "66%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "11%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayama",
+        "Menores de 3 y 4 años no matriculados en la escuela": "21%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "2%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "13%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayanilla",
+        "Menores de 3 y 4 años no matriculados en la escuela": "44%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guaynabo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "32%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "9%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Gurabo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "46%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "12%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hatillo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "71%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hormigueros",
+        "Menores de 3 y 4 años no matriculados en la escuela": "50%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "7%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Humacao",
+        "Menores de 3 y 4 años no matriculados en la escuela": "36%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "7%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Isabela",
+        "Menores de 3 y 4 años no matriculados en la escuela": "61%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "3%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Jayuya",
+        "Menores de 3 y 4 años no matriculados en la escuela": "51%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "18%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juana DÃ­az",
+        "Menores de 3 y 4 años no matriculados en la escuela": "47%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "18%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juncos",
+        "Menores de 3 y 4 años no matriculados en la escuela": "36%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "7%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lajas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "60%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "13%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lares",
+        "Menores de 3 y 4 años no matriculados en la escuela": "52%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las MarÃ­as",
+        "Menores de 3 y 4 años no matriculados en la escuela": "46%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las Piedras",
+        "Menores de 3 y 4 años no matriculados en la escuela": "27%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "3%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "LoÃ­za",
+        "Menores de 3 y 4 años no matriculados en la escuela": "7%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "1%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Luquillo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "29%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ManatÃ­",
+        "Menores de 3 y 4 años no matriculados en la escuela": "45%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "15%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "7%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maricao",
+        "Menores de 3 y 4 años no matriculados en la escuela": "100%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maunabo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "56%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "MayagÃ¼ez",
+        "Menores de 3 y 4 años no matriculados en la escuela": "51%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "18%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Moca",
+        "Menores de 3 y 4 años no matriculados en la escuela": "33%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "7%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Morovis",
+        "Menores de 3 y 4 años no matriculados en la escuela": "39%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naguabo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "62%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "26%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "3%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naranjito",
+        "Menores de 3 y 4 años no matriculados en la escuela": "62%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Orocovis",
+        "Menores de 3 y 4 años no matriculados en la escuela": "67%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "8%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Patillas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "34%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "PeÃ±uelas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "54%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "38%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ponce",
+        "Menores de 3 y 4 años no matriculados en la escuela": "37%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "3%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Quebradillas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "48%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "37%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RincÃ³n",
+        "Menores de 3 y 4 años no matriculados en la escuela": "48%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "12%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "7%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RÃ­o Grande",
+        "Menores de 3 y 4 años no matriculados en la escuela": "42%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "4%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Sabana Grande",
+        "Menores de 3 y 4 años no matriculados en la escuela": "26%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "53%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Salinas",
+        "Menores de 3 y 4 años no matriculados en la escuela": "32%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "28%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "7%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San GermÃ¡n",
+        "Menores de 3 y 4 años no matriculados en la escuela": "26%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "15%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Juan",
+        "Menores de 3 y 4 años no matriculados en la escuela": "38%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "3%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Lorenzo",
+        "Menores de 3 y 4 años no matriculados en la escuela": "46%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "8%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "31%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San SebastiÃ¡n",
+        "Menores de 3 y 4 años no matriculados en la escuela": "50%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "17%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Santa Isabel",
+        "Menores de 3 y 4 años no matriculados en la escuela": "23%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Alta",
+        "Menores de 3 y 4 años no matriculados en la escuela": "42%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "11%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Baja",
+        "Menores de 3 y 4 años no matriculados en la escuela": "47%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "7%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Trujillo Alto",
+        "Menores de 3 y 4 años no matriculados en la escuela": "43%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "4%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Utuado",
+        "Menores de 3 y 4 años no matriculados en la escuela": "51%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "10%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Alta",
+        "Menores de 3 y 4 años no matriculados en la escuela": "59%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "11%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Baja",
+        "Menores de 3 y 4 años no matriculados en la escuela": "50%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "9%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "6%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vieques",
+        "Menores de 3 y 4 años no matriculados en la escuela": "52%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "6%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Villalba",
+        "Menores de 3 y 4 años no matriculados en la escuela": "36%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yabucoa",
+        "Menores de 3 y 4 años no matriculados en la escuela": "39%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "5%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "16%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "2%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yauco",
+        "Menores de 3 y 4 años no matriculados en la escuela": "61%",
+        "Menores de 3 a 17 años no matriculados en la escuela": "7%",
+        "Mujeres de 15 a 50 años que dieron a luz y no tienen cuarto año": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y que no tienen diploma de cuarto año": "0%",
+        "Es territorio completo": false
+    }
+]

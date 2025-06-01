@@ -1,0 +1,634 @@
+[
+    {
+        "Nombre": "Puerto Rico",
+        "Mediana de ingreso de las familias con niños y niñas": "$26,360.00",
+        "Menores bajo el nivel de pobreza": "54%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "12%",
+        "Es territorio completo": true
+    },
+    {
+        "Nombre": "Adjuntas",
+        "Mediana de ingreso de las familias con niños y niñas": "$17,798.00",
+        "Menores bajo el nivel de pobreza": "80%",
+        "Familias con menores y al menos un padre sin empleo": "60%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "20%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguada",
+        "Mediana de ingreso de las familias con niños y niñas": "$23,381.00",
+        "Menores bajo el nivel de pobreza": "61%",
+        "Familias con menores y al menos un padre sin empleo": "38%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguadilla",
+        "Mediana de ingreso de las familias con niños y niñas": "$17,042.00",
+        "Menores bajo el nivel de pobreza": "61%",
+        "Familias con menores y al menos un padre sin empleo": "49%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aguas Buenas",
+        "Mediana de ingreso de las familias con niños y niñas": "$20,938.00",
+        "Menores bajo el nivel de pobreza": "62%",
+        "Familias con menores y al menos un padre sin empleo": "48%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "12%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Aibonito",
+        "Mediana de ingreso de las familias con niños y niñas": "$25,313.00",
+        "Menores bajo el nivel de pobreza": "56%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Añasco",
+        "Mediana de ingreso de las familias con niños y niñas": "$24,214.00",
+        "Menores bajo el nivel de pobreza": "58%",
+        "Familias con menores y al menos un padre sin empleo": "37%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "22%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arecibo",
+        "Mediana de ingreso de las familias con niños y niñas": "$24,375.00",
+        "Menores bajo el nivel de pobreza": "56%",
+        "Familias con menores y al menos un padre sin empleo": "44%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "8%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Arroyo",
+        "Mediana de ingreso de las familias con niños y niñas": "$17,973.00",
+        "Menores bajo el nivel de pobreza": "69%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barceloneta",
+        "Mediana de ingreso de las familias con niños y niñas": "$22,488.00",
+        "Menores bajo el nivel de pobreza": "54%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "8%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Barranquitas",
+        "Mediana de ingreso de las familias con niños y niñas": "$18,500.00",
+        "Menores bajo el nivel de pobreza": "66%",
+        "Familias con menores y al menos un padre sin empleo": "48%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "15%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Bayamón",
+        "Mediana de ingreso de las familias con niños y niñas": "$29,623.00",
+        "Menores bajo el nivel de pobreza": "51%",
+        "Familias con menores y al menos un padre sin empleo": "34%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "14%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cabo Rojo",
+        "Mediana de ingreso de las familias con niños y niñas": "$34,515.00",
+        "Menores bajo el nivel de pobreza": "44%",
+        "Familias con menores y al menos un padre sin empleo": "38%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "12%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Caguas",
+        "Mediana de ingreso de las familias con niños y niñas": "$29,980.00",
+        "Menores bajo el nivel de pobreza": "51%",
+        "Familias con menores y al menos un padre sin empleo": "33%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Camuy",
+        "Mediana de ingreso de las familias con niños y niñas": "$28,774.00",
+        "Menores bajo el nivel de pobreza": "52%",
+        "Familias con menores y al menos un padre sin empleo": "46%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "15%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Canóvanas",
+        "Mediana de ingreso de las familias con niños y niñas": "$30,210.00",
+        "Menores bajo el nivel de pobreza": "49%",
+        "Familias con menores y al menos un padre sin empleo": "30%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "14%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Carolina",
+        "Mediana de ingreso de las familias con niños y niñas": "$34,112.00",
+        "Menores bajo el nivel de pobreza": "46%",
+        "Familias con menores y al menos un padre sin empleo": "33%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cataño",
+        "Mediana de ingreso de las familias con niños y niñas": "$20,356.00",
+        "Menores bajo el nivel de pobreza": "58%",
+        "Familias con menores y al menos un padre sin empleo": "48%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "22%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cayey",
+        "Mediana de ingreso de las familias con niños y niñas": "$28,072.00",
+        "Menores bajo el nivel de pobreza": "50%",
+        "Familias con menores y al menos un padre sin empleo": "32%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ceiba",
+        "Mediana de ingreso de las familias con niños y niñas": "$28,800.00",
+        "Menores bajo el nivel de pobreza": "65%",
+        "Familias con menores y al menos un padre sin empleo": "49%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "13%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ciales",
+        "Mediana de ingreso de las familias con niños y niñas": "$16,754.00",
+        "Menores bajo el nivel de pobreza": "73%",
+        "Familias con menores y al menos un padre sin empleo": "45%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Cidra",
+        "Mediana de ingreso de las familias con niños y niñas": "$31,143.00",
+        "Menores bajo el nivel de pobreza": "43%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "7%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Coamo",
+        "Mediana de ingreso de las familias con niños y niñas": "$23,690.00",
+        "Menores bajo el nivel de pobreza": "60%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Comerío",
+        "Mediana de ingreso de las familias con niños y niñas": "$14,056.00",
+        "Menores bajo el nivel de pobreza": "75%",
+        "Familias con menores y al menos un padre sin empleo": "48%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Corozal",
+        "Mediana de ingreso de las familias con niños y niñas": "$23,665.00",
+        "Menores bajo el nivel de pobreza": "58%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "13%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Culebra",
+        "Mediana de ingreso de las familias con niños y niñas": "$40,625.00",
+        "Menores bajo el nivel de pobreza": "23%",
+        "Familias con menores y al menos un padre sin empleo": "0%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "47%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Dorado",
+        "Mediana de ingreso de las familias con niños y niñas": "$52,830.00",
+        "Menores bajo el nivel de pobreza": "33%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Fajardo",
+        "Mediana de ingreso de las familias con niños y niñas": "$19,187.00",
+        "Menores bajo el nivel de pobreza": "63%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Florida",
+        "Mediana de ingreso de las familias con niños y niñas": "$14,989.00",
+        "Menores bajo el nivel de pobreza": "73%",
+        "Familias con menores y al menos un padre sin empleo": "71%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guánica",
+        "Mediana de ingreso de las familias con niños y niñas": "$12,529.00",
+        "Menores bajo el nivel de pobreza": "75%",
+        "Familias con menores y al menos un padre sin empleo": "63%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "22%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayama",
+        "Mediana de ingreso de las familias con niños y niñas": "$20,776.00",
+        "Menores bajo el nivel de pobreza": "63%",
+        "Familias con menores y al menos un padre sin empleo": "45%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "12%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guayanilla",
+        "Mediana de ingreso de las familias con niños y niñas": "$25,317.00",
+        "Menores bajo el nivel de pobreza": "63%",
+        "Familias con menores y al menos un padre sin empleo": "40%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "28%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Guaynabo",
+        "Mediana de ingreso de las familias con niños y niñas": "$59,553.00",
+        "Menores bajo el nivel de pobreza": "33%",
+        "Familias con menores y al menos un padre sin empleo": "32%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Gurabo",
+        "Mediana de ingreso de las familias con niños y niñas": "$48,402.00",
+        "Menores bajo el nivel de pobreza": "41%",
+        "Familias con menores y al menos un padre sin empleo": "36%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hatillo",
+        "Mediana de ingreso de las familias con niños y niñas": "$32,125.00",
+        "Menores bajo el nivel de pobreza": "47%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Hormigueros",
+        "Mediana de ingreso de las familias con niños y niñas": "$24,122.00",
+        "Menores bajo el nivel de pobreza": "53%",
+        "Familias con menores y al menos un padre sin empleo": "27%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "4%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Humacao",
+        "Mediana de ingreso de las familias con niños y niñas": "$28,534.00",
+        "Menores bajo el nivel de pobreza": "57%",
+        "Familias con menores y al menos un padre sin empleo": "42%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Isabela",
+        "Mediana de ingreso de las familias con niños y niñas": "$28,386.00",
+        "Menores bajo el nivel de pobreza": "55%",
+        "Familias con menores y al menos un padre sin empleo": "46%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "15%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Jayuya",
+        "Mediana de ingreso de las familias con niños y niñas": "$16,742.00",
+        "Menores bajo el nivel de pobreza": "68%",
+        "Familias con menores y al menos un padre sin empleo": "37%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juana Díaz",
+        "Mediana de ingreso de las familias con niños y niñas": "$32,587.00",
+        "Menores bajo el nivel de pobreza": "49%",
+        "Familias con menores y al menos un padre sin empleo": "42%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Juncos",
+        "Mediana de ingreso de las familias con niños y niñas": "$30,367.00",
+        "Menores bajo el nivel de pobreza": "44%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lajas",
+        "Mediana de ingreso de las familias con niños y niñas": "$18,095.00",
+        "Menores bajo el nivel de pobreza": "68%",
+        "Familias con menores y al menos un padre sin empleo": "46%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Lares",
+        "Mediana de ingreso de las familias con niños y niñas": "$19,593.00",
+        "Menores bajo el nivel de pobreza": "67%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las Marías",
+        "Mediana de ingreso de las familias con niños y niñas": "$16,156.00",
+        "Menores bajo el nivel de pobreza": "71%",
+        "Familias con menores y al menos un padre sin empleo": "61%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "1%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Las Piedras",
+        "Mediana de ingreso de las familias con niños y niñas": "$32,821.00",
+        "Menores bajo el nivel de pobreza": "49%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Loíza",
+        "Mediana de ingreso de las familias con niños y niñas": "$20,899.00",
+        "Menores bajo el nivel de pobreza": "63%",
+        "Familias con menores y al menos un padre sin empleo": "37%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Luquillo",
+        "Mediana de ingreso de las familias con niños y niñas": "$30,606.00",
+        "Menores bajo el nivel de pobreza": "54%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "ManatÃ­",
+        "Mediana de ingreso de las familias con niños y niñas": "$21,188.00",
+        "Menores bajo el nivel de pobreza": "61%",
+        "Familias con menores y al menos un padre sin empleo": "47%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "19%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maricao",
+        "Mediana de ingreso de las familias con niños y niñas": "$21,295.00",
+        "Menores bajo el nivel de pobreza": "67%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "14%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Maunabo",
+        "Mediana de ingreso de las familias con niños y niñas": "$16,705.00",
+        "Menores bajo el nivel de pobreza": "69%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "20%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "MayagÃ¼ez",
+        "Mediana de ingreso de las familias con niños y niñas": "$14,293.00",
+        "Menores bajo el nivel de pobreza": "73%",
+        "Familias con menores y al menos un padre sin empleo": "47%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Moca",
+        "Mediana de ingreso de las familias con niños y niñas": "$26,647.00",
+        "Menores bajo el nivel de pobreza": "53%",
+        "Familias con menores y al menos un padre sin empleo": "42%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "13%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Morovis",
+        "Mediana de ingreso de las familias con niños y niñas": "$25,042.00",
+        "Menores bajo el nivel de pobreza": "55%",
+        "Familias con menores y al menos un padre sin empleo": "40%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naguabo",
+        "Mediana de ingreso de las familias con niños y niñas": "$19,427.00",
+        "Menores bajo el nivel de pobreza": "67%",
+        "Familias con menores y al menos un padre sin empleo": "54%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "6%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Naranjito",
+        "Mediana de ingreso de las familias con niños y niñas": "$13,954.00",
+        "Menores bajo el nivel de pobreza": "73%",
+        "Familias con menores y al menos un padre sin empleo": "50%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "12%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Orocovis",
+        "Mediana de ingreso de las familias con niños y niñas": "$19,315.00",
+        "Menores bajo el nivel de pobreza": "61%",
+        "Familias con menores y al menos un padre sin empleo": "37%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Patillas",
+        "Mediana de ingreso de las familias con niños y niñas": "$19,338.00",
+        "Menores bajo el nivel de pobreza": "71%",
+        "Familias con menores y al menos un padre sin empleo": "46%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "0%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "PeÃ±uelas",
+        "Mediana de ingreso de las familias con niños y niñas": "$20,938.00",
+        "Menores bajo el nivel de pobreza": "66%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "10%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Ponce",
+        "Mediana de ingreso de las familias con niños y niñas": "$15,796.00",
+        "Menores bajo el nivel de pobreza": "67%",
+        "Familias con menores y al menos un padre sin empleo": "49%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "15%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Quebradillas",
+        "Mediana de ingreso de las familias con niños y niñas": "$26,272.00",
+        "Menores bajo el nivel de pobreza": "54%",
+        "Familias con menores y al menos un padre sin empleo": "48%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "21%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RincÃ³n",
+        "Mediana de ingreso de las familias con niños y niñas": "$22,935.00",
+        "Menores bajo el nivel de pobreza": "59%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "17%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "RÃ­o Grande",
+        "Mediana de ingreso de las familias con niños y niñas": "$29,947.00",
+        "Menores bajo el nivel de pobreza": "52%",
+        "Familias con menores y al menos un padre sin empleo": "35%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "5%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Sabana Grande",
+        "Mediana de ingreso de las familias con niños y niñas": "$23,382.00",
+        "Menores bajo el nivel de pobreza": "61%",
+        "Familias con menores y al menos un padre sin empleo": "51%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "8%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Salinas",
+        "Mediana de ingreso de las familias con niños y niñas": "$22,458.00",
+        "Menores bajo el nivel de pobreza": "66%",
+        "Familias con menores y al menos un padre sin empleo": "44%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "16%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San GermÃ¡n",
+        "Mediana de ingreso de las familias con niños y niñas": "$16,250.00",
+        "Menores bajo el nivel de pobreza": "67%",
+        "Familias con menores y al menos un padre sin empleo": "50%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "18%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Juan",
+        "Mediana de ingreso de las familias con niños y niñas": "$20,659.00",
+        "Menores bajo el nivel de pobreza": "59%",
+        "Familias con menores y al menos un padre sin empleo": "40%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "11%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San Lorenzo",
+        "Mediana de ingreso de las familias con niños y niñas": "$29,319.00",
+        "Menores bajo el nivel de pobreza": "51%",
+        "Familias con menores y al menos un padre sin empleo": "29%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "17%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "San SebastiÃ¡n",
+        "Mediana de ingreso de las familias con niños y niñas": "$17,927.00",
+        "Menores bajo el nivel de pobreza": "66%",
+        "Familias con menores y al menos un padre sin empleo": "53%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "18%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Santa Isabel",
+        "Mediana de ingreso de las familias con niños y niñas": "$24,076.00",
+        "Menores bajo el nivel de pobreza": "56%",
+        "Familias con menores y al menos un padre sin empleo": "39%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "19%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Alta",
+        "Mediana de ingreso de las familias con niños y niñas": "$35,391.00",
+        "Menores bajo el nivel de pobreza": "44%",
+        "Familias con menores y al menos un padre sin empleo": "30%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "8%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Toa Baja",
+        "Mediana de ingreso de las familias con niños y niñas": "$29,134.00",
+        "Menores bajo el nivel de pobreza": "45%",
+        "Familias con menores y al menos un padre sin empleo": "33%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "10%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Trujillo Alto",
+        "Mediana de ingreso de las familias con niños y niñas": "$39,481.00",
+        "Menores bajo el nivel de pobreza": "37%",
+        "Familias con menores y al menos un padre sin empleo": "21%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "9%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Utuado",
+        "Mediana de ingreso de las familias con niños y niñas": "$18,473.00",
+        "Menores bajo el nivel de pobreza": "68%",
+        "Familias con menores y al menos un padre sin empleo": "50%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "19%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Alta",
+        "Mediana de ingreso de las familias con niños y niñas": "$25,581.00",
+        "Menores bajo el nivel de pobreza": "48%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "21%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vega Baja",
+        "Mediana de ingreso de las familias con niños y niñas": "$22,899.00",
+        "Menores bajo el nivel de pobreza": "53%",
+        "Familias con menores y al menos un padre sin empleo": "36%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "14%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Vieques",
+        "Mediana de ingreso de las familias con niños y niñas": "$18,250.00",
+        "Menores bajo el nivel de pobreza": "88%",
+        "Familias con menores y al menos un padre sin empleo": "41%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "44%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Villalba",
+        "Mediana de ingreso de las familias con niños y niñas": "$34,688.00",
+        "Menores bajo el nivel de pobreza": "51%",
+        "Familias con menores y al menos un padre sin empleo": "34%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "19%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yabucoa",
+        "Mediana de ingreso de las familias con niños y niñas": "$19,225.00",
+        "Menores bajo el nivel de pobreza": "65%",
+        "Familias con menores y al menos un padre sin empleo": "48%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "8%",
+        "Es territorio completo": false
+    },
+    {
+        "Nombre": "Yauco",
+        "Mediana de ingreso de las familias con niños y niñas": "$28,675.00",
+        "Menores bajo el nivel de pobreza": "55%",
+        "Familias con menores y al menos un padre sin empleo": "49%",
+        "Jóvenes de 16 a 19 años no matriculados y sin empleo": "5%",
+        "Es territorio completo": false
+    }
+]
