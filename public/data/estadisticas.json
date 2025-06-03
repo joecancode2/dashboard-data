@@ -320,23 +320,23 @@
         "Fuente":"Puerto Rico Community Survey"
     },
     {
-        "Dimensión":"Educacion",
+        "Dimensión":"Educación",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
-        "Indicador":"Ni̱os\/as de 3 a 4 años no matriculados en la escuela",
+        "Indicador":"Niños\/as de 3 a 4 años no matriculados en la escuela",
         "Valor":"42%",
         "Fuente":"Puerto Rico Community Survey"
     },
     {
-        "Dimensión":"Educacion",
+        "Dimensión":"Educación",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
-        "Indicador":"Ni̱os, niñas y jóvenes de 3 a 17 años no matriculados en la escuela",
+        "Indicador":"Niños, niñas y jóvenes de 3 a 17 años no matriculados en la escuela",
         "Valor":"7%",
         "Fuente":"Puerto Rico Community Survey"
     },
     {
-        "Dimensión":"Educacion",
+        "Dimensión":"Educación",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
         "Indicador":"Mujeres (15 a 50 años) que dieron a luz y no tienene cuarto año",
@@ -344,7 +344,7 @@
         "Fuente":"Puerto Rico Community Survey"
     },
     {
-        "Dimensión":"Educacion",
+        "Dimensión":"Educación",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
         "Indicador":"Jóvenes 18 a 24 años matriculados en universidad o escuela graduada",
