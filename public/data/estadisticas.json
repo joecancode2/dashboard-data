@@ -93,7 +93,7 @@
         "Año":"2023",
         "Indicador":"Total de nacimientos",
         "Valor":"18,645",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -101,7 +101,7 @@
         "Año":"2023",
         "Indicador":"Adolescentes menores de 15 años que dieron a luz",
         "Valor":"4",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -109,7 +109,7 @@
         "Año":"2023",
         "Indicador":"Jóvenes entre 15 y 19 años que dierona luz",
         "Valor":"1,134",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -117,7 +117,7 @@
         "Año":"2023",
         "Indicador":"Bebés prematuros",
         "Valor":"2,282",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -125,7 +125,7 @@
         "Año":"2023",
         "Indicador":"Menores con muy bajo peso al nacer",
         "Valor":"306",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -133,7 +133,7 @@
         "Año":"2023",
         "Indicador":"Tasa de mortalidad de niños, niñas y jóvenes de 0 a 19 años",
         "Valor":"47",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -141,7 +141,7 @@
         "Año":"2023",
         "Indicador":"Madres adolescentes que ya eran madres",
         "Valor":"16%",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -149,7 +149,7 @@
         "Año":"2023",
         "Indicador":"Nacimiento en madres que recibieron cuidado prenatal desde su primer trimestre de gestación",
         "Valor":"85%",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -157,7 +157,7 @@
         "Año":"2023",
         "Indicador":"Nacimiento en madres que recibieron cuidado prenatal a partir del segundo trimestre de gestación",
         "Valor":"11%",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -165,7 +165,7 @@
         "Año":"2023",
         "Indicador":"Nacimiento en madres que recibieron cuidado prenatal a partir del tercer trimestre de gestación",
         "Valor":"2%",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Salud",
@@ -173,7 +173,7 @@
         "Año":"2023",
         "Indicador":"Madres que fumaron durante el embarazo",
         "Valor":"21",
-        "Fuente":"Puerto Rico Community Survey"
+        "Fuente":"Departamento de Salud de Puerto Rico"
     },
     {
         "Dimensión":"Economía",
