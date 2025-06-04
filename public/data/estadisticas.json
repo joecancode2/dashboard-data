@@ -83,7 +83,7 @@
         "Dimensión":"Salud",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
-        "Indicador":"Menores sin Plan M̩dico",
+        "Indicador":"Menores sin Plan Médico",
         "Valor":"3%",
         "Fuente":"Puerto Rico Community Survey"
     },
@@ -123,7 +123,7 @@
         "Dimensión":"Salud",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Ni̱os y niñas con muy bajo peso al nacer",
+        "Indicador":"Menores con muy bajo peso al nacer",
         "Valor":"306",
         "Fuente":"Puerto Rico Community Survey"
     },
@@ -251,7 +251,7 @@
         "Dimensión":"Economía",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
-        "Indicador":"Abuelas\/os que viven con sus nietos\/as menores de 18 años y estn a cargo de sus necesidades bajo el nivel de pobreza",
+        "Indicador":"Abuelos que viven con sus nietos\/as menores de 18 años y estn a cargo de sus necesidades bajo el nivel de pobreza",
         "Valor":"52%",
         "Fuente":"Puerto Rico Community Survey"
     },
@@ -323,7 +323,7 @@
         "Dimensión":"Educación",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
-        "Indicador":"Niños\/as de 3 a 4 años no matriculados en la escuela",
+        "Indicador":"Menores de 3 a 4 años no matriculados en la escuela",
         "Valor":"42%",
         "Fuente":"Puerto Rico Community Survey"
     },
@@ -331,7 +331,7 @@
         "Dimensión":"Educación",
         "Estado":"Puerto Rico",
         "Año":"2019-2023",
-        "Indicador":"Niños, niñas y jóvenes de 3 a 17 años no matriculados en la escuela",
+        "Indicador":"Menores y jóvenes de 3 a 17 años no matriculados en la escuela",
         "Valor":"7%",
         "Fuente":"Puerto Rico Community Survey"
     },
@@ -411,7 +411,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato por abuso sexual",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato por abuso sexual",
         "Valor":"92",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
@@ -419,7 +419,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato por explotación",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato por explotación",
         "Valor":"14",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
@@ -427,7 +427,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato fósico",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato fósico",
         "Valor":"1,031",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
@@ -435,7 +435,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato por neglicencia",
         "Valor":"2,899",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
@@ -443,7 +443,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia educativa",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato por neglicencia educativa",
         "Valor":"1,095",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
@@ -451,7 +451,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia emocional",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato por neglicencia emocional",
         "Valor":"2,567",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
@@ -459,7 +459,7 @@
         "Dimensión":"Familia",
         "Estado":"Puerto Rico",
         "Año":"2023",
-        "Indicador":"Niños, niñas y jóvenes para los que se ha confirmado maltrato por neglicencia m̩dica",
+        "Indicador":"Menores y jóvenes para los que se ha confirmado maltrato por neglicencia m̩dica",
         "Valor":"836",
         "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
     },
