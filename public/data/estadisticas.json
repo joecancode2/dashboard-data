@@ -357,7 +357,7 @@
         "Año":"2019-2023",
         "Indicador":"Matrimonios con menores de 18 años",
         "Valor":"40%",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
@@ -365,7 +365,7 @@
         "Año":"2019-2023",
         "Indicador":"Madres solteras-jefas de familia con menores de 18 años",
         "Valor":"47%",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
@@ -373,7 +373,7 @@
         "Año":"2019-2023",
         "Indicador":"Padres solteros-jefes de familia con menores de 18 años",
         "Valor":"13%",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
@@ -381,7 +381,7 @@
         "Año":"2019-2023",
         "Indicador":"Menores que viven con personas que no son sus familiares",
         "Valor":"1%",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
@@ -389,7 +389,7 @@
         "Año":"2019-2023",
         "Indicador":"Hogares ocupados con menores de 18 años",
         "Valor":"260,866",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
@@ -397,7 +397,7 @@
         "Año":"2019-2023",
         "Indicador":"Menores de 0 a 17 años en hogares donde los ocupantes son due̱os del hogar",
         "Valor":"54%",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
@@ -405,7 +405,7 @@
         "Año":"2019-2023",
         "Indicador":"Menores de 0 a 17 años en hogares donde los ocupantes arriendan el hogar",
         "Valor":"46%",
-        "Fuente":"Administración de Familias y Niños del Departamento de la Familia de Puerto Rico"
+        "Fuente":"Puerto Rico Community Survey"
     },
     {
         "Dimensión":"Familia",
