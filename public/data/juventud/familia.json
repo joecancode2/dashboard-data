@@ -1603,262 +1603,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 50,
+          "value": "50%",
           "position": 4
         },
         {
           "state": "Alaska",
-          "value": 37,
+          "value": "37%",
           "position": 23
         },
         {
           "state": "Arizona",
-          "value": 31,
+          "value": "31%",
           "position": 34
         },
         {
           "state": "Arkansas",
-          "value": 51,
+          "value": "51%",
           "position": 3
         },
         {
           "state": "California",
-          "value": 20,
+          "value": "20%",
           "position": 51
         },
         {
           "state": "Colorado",
-          "value": 33,
+          "value": "33%",
           "position": 32
         },
         {
           "state": "Connecticut",
-          "value": 21,
+          "value": "21%",
           "position": 50
         },
         {
           "state": "Delaware",
-          "value": 39,
+          "value": "39%",
           "position": 20
         },
         {
           "state": "District of Columbia",
-          "value": 25,
+          "value": "25%",
           "position": 44
         },
         {
           "state": "Florida",
-          "value": 30,
+          "value": "30%",
           "position": 38
         },
         {
           "state": "Georgia",
-          "value": 37,
+          "value": "37%",
           "position": 24
         },
         {
           "state": "Hawaii",
-          "value": 18,
+          "value": "18%",
           "position": 52
         },
         {
           "state": "Idaho",
-          "value": 38,
+          "value": "38%",
           "position": 22
         },
         {
           "state": "Illinois",
-          "value": 31,
+          "value": "31%",
           "position": 36
         },
         {
           "state": "Indiana",
-          "value": 42,
+          "value": "42%",
           "position": 14
         },
         {
           "state": "Iowa",
-          "value": 41,
+          "value": "41%",
           "position": 16
         },
         {
           "state": "Kansas",
-          "value": 35,
+          "value": "35%",
           "position": 27
         },
         {
           "state": "Kentucky",
-          "value": 54,
+          "value": "54%",
           "position": 1
         },
         {
           "state": "Louisiana",
-          "value": 46,
+          "value": "46%",
           "position": 7
         },
         {
           "state": "Maine",
-          "value": 37,
+          "value": "37%",
           "position": 26
         },
         {
           "state": "Maryland",
-          "value": 28,
+          "value": "28%",
           "position": 40
         },
         {
           "state": "Massachusetts",
-          "value": 23,
+          "value": "23%",
           "position": 46
         },
         {
           "state": "Michigan",
-          "value": 31,
+          "value": "31%",
           "position": 37
         },
         {
           "state": "Minnesota",
-          "value": 30,
+          "value": "30%",
           "position": 39
         },
         {
           "state": "Mississippi",
-          "value": 46,
+          "value": "46%",
           "position": 6
         },
         {
           "state": "Missouri",
-          "value": 40,
+          "value": "40%",
           "position": 19
         },
         {
           "state": "Montana",
-          "value": 42,
+          "value": "42%",
           "position": 15
         },
         {
           "state": "Nebraska",
-          "value": 37,
+          "value": "37%",
           "position": 25
         },
         {
           "state": "Nevada",
-          "value": 28,
+          "value": "28%",
           "position": 41
         },
         {
           "state": "New Hampshire",
-          "value": 32,
+          "value": "32%",
           "position": 33
         },
         {
           "state": "New Jersey",
-          "value": 23,
+          "value": "23%",
           "position": 47
         },
         {
           "state": "New Mexico",
-          "value": 40,
+          "value": "40%",
           "position": 17
         },
         {
           "state": "New York",
-          "value": 24,
+          "value": "24%",
           "position": 45
         },
         {
           "state": "North Carolina",
-          "value": 42,
+          "value": "42%",
           "position": 13
         },
         {
           "state": "North Dakota",
-          "value": 43,
+          "value": "43%",
           "position": 12
         },
         {
           "state": "Ohio",
-          "value": 44,
+          "value": "44%",
           "position": 10
         },
         {
           "state": "Oklahoma",
-          "value": 47,
+          "value": "47%",
           "position": 5
         },
         {
           "state": "Oregon",
-          "value": 23,
+          "value": "23%",
           "position": 48
         },
         {
           "state": "Pennsylvania",
-          "value": 31,
+          "value": "31%",
           "position": 35
         },
         {
           "state": "Puerto Rico",
-          "value": 39,
+          "value": "39%",
           "position": 21
         },
         {
           "state": "Rhode Island",
-          "value": 27,
+          "value": "27%",
           "position": 42
         },
         {
           "state": "South Carolina",
-          "value": 43,
+          "value": "43%",
           "position": 11
         },
         {
           "state": "South Dakota",
-          "value": 45,
+          "value": "45%",
           "position": 9
         },
         {
           "state": "Tennessee",
-          "value": 46,
+          "value": "46%",
           "position": 8
         },
         {
           "state": "Texas",
-          "value": 33,
+          "value": "33%",
           "position": 31
         },
         {
           "state": "Utah",
-          "value": 23,
+          "value": "23%",
           "position": 49
         },
         {
           "state": "Vermont",
-          "value": 35,
+          "value": "35%",
           "position": 28
         },
         {
           "state": "Virginia",
-          "value": 34,
+          "value": "34%",
           "position": 30
         },
         {
           "state": "Washington",
-          "value": 26,
+          "value": "26%",
           "position": 43
         },
         {
           "state": "West Virginia",
-          "value": 52,
+          "value": "52%",
           "position": 2
         },
         {
           "state": "Wisconsin",
-          "value": 34,
+          "value": "34%",
           "position": 29
         },
         {
           "state": "Wyoming",
-          "value": 40,
+          "value": "40%",
           "position": 18
         }
       ]
@@ -1869,262 +1869,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 48,
+          "value": "48%",
           "position": 7
         },
         {
           "state": "Alaska",
-          "value": 51,
+          "value": "51%",
           "position": 4
         },
         {
           "state": "Arizona",
-          "value": 27,
+          "value": "27%",
           "position": 40
         },
         {
           "state": "Arkansas",
-          "value": 46,
+          "value": "46%",
           "position": 10
         },
         {
           "state": "California",
-          "value": 19,
+          "value": "19%",
           "position": 52
         },
         {
           "state": "Colorado",
-          "value": 32,
+          "value": "32%",
           "position": 34
         },
         {
           "state": "Connecticut",
-          "value": 26,
+          "value": "26%",
           "position": 45
         },
         {
           "state": "Delaware",
-          "value": 32,
+          "value": "32%",
           "position": 33
         },
         {
           "state": "District of Columbia",
-          "value": 51,
+          "value": "51%",
           "position": 3
         },
         {
           "state": "Florida",
-          "value": 28,
+          "value": "28%",
           "position": 39
         },
         {
           "state": "Georgia",
-          "value": 38,
+          "value": "38%",
           "position": 25
         },
         {
           "state": "Hawaii",
-          "value": 21,
+          "value": "21%",
           "position": 50
         },
         {
           "state": "Idaho",
-          "value": 24,
+          "value": "24%",
           "position": 48
         },
         {
           "state": "Illinois",
-          "value": 29,
+          "value": "29%",
           "position": 36
         },
         {
           "state": "Indiana",
-          "value": 44,
+          "value": "44%",
           "position": 15
         },
         {
           "state": "Iowa",
-          "value": 41,
+          "value": "41%",
           "position": 19
         },
         {
           "state": "Kansas",
-          "value": 41,
+          "value": "41%",
           "position": 20
         },
         {
           "state": "Kentucky",
-          "value": 47,
+          "value": "47%",
           "position": 8
         },
         {
           "state": "Louisiana",
-          "value": 51,
+          "value": "51%",
           "position": 5
         },
         {
           "state": "Maine",
-          "value": 37,
+          "value": "37%",
           "position": 26
         },
         {
           "state": "Maryland",
-          "value": 27,
+          "value": "27%",
           "position": 43
         },
         {
           "state": "Massachusetts",
-          "value": 26,
+          "value": "26%",
           "position": 44
         },
         {
           "state": "Michigan",
-          "value": 31,
+          "value": "31%",
           "position": 35
         },
         {
           "state": "Minnesota",
-          "value": 29,
+          "value": "29%",
           "position": 37
         },
         {
           "state": "Mississippi",
-          "value": 49,
+          "value": "49%",
           "position": 6
         },
         {
           "state": "Missouri",
-          "value": 44,
+          "value": "44%",
           "position": 14
         },
         {
           "state": "Montana",
-          "value": 45,
+          "value": "45%",
           "position": 11
         },
         {
           "state": "Nebraska",
-          "value": 38,
+          "value": "38%",
           "position": 24
         },
         {
           "state": "Nevada",
-          "value": 33,
+          "value": "33%",
           "position": 32
         },
         {
           "state": "New Hampshire",
-          "value": 24,
+          "value": "24%",
           "position": 47
         },
         {
           "state": "New Jersey",
-          "value": 21,
+          "value": "21%",
           "position": 51
         },
         {
           "state": "New Mexico",
-          "value": 39,
+          "value": "39%",
           "position": 22
         },
         {
           "state": "New York",
-          "value": 27,
+          "value": "27%",
           "position": 41
         },
         {
           "state": "North Carolina",
-          "value": 39,
+          "value": "39%",
           "position": 23
         },
         {
           "state": "North Dakota",
-          "value": 57,
+          "value": "57%",
           "position": 2
         },
         {
           "state": "Ohio",
-          "value": 40,
+          "value": "40%",
           "position": 21
         },
         {
           "state": "Oklahoma",
-          "value": 47,
+          "value": "47%",
           "position": 9
         },
         {
           "state": "Oregon",
-          "value": 27,
+          "value": "27%",
           "position": 42
         },
         {
           "state": "Pennsylvania",
-          "value": 36,
+          "value": "36%",
           "position": 28
         },
         {
           "state": "Puerto Rico",
-          "value": 34,
+          "value": "34%",
           "position": 30
         },
         {
           "state": "Rhode Island",
-          "value": 26,
+          "value": "26%",
           "position": 46
         },
         {
           "state": "South Carolina",
-          "value": 42,
+          "value": "42%",
           "position": 18
         },
         {
           "state": "South Dakota",
-          "value": 43,
+          "value": "43%",
           "position": 16
         },
         {
           "state": "Tennessee",
-          "value": 45,
+          "value": "45%",
           "position": 12
         },
         {
           "state": "Texas",
-          "value": 33,
+          "value": "33%",
           "position": 31
         },
         {
           "state": "Utah",
-          "value": 23,
+          "value": "23%",
           "position": 49
         },
         {
           "state": "Vermont",
-          "value": 42,
+          "value": "42%",
           "position": 17
         },
         {
           "state": "Virginia",
-          "value": 36,
+          "value": "36%",
           "position": 27
         },
         {
           "state": "Washington",
-          "value": 28,
+          "value": "28%",
           "position": 38
         },
         {
           "state": "West Virginia",
-          "value": 44,
+          "value": "44%",
           "position": 13
         },
         {
           "state": "Wisconsin",
-          "value": 34,
+          "value": "34%",
           "position": 29
         },
         {
           "state": "Wyoming",
-          "value": 61,
+          "value": "61%",
           "position": 1
         }
       ]
@@ -3731,262 +3731,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 23,
+          "value": "23%",
           "position": 10
         },
         {
           "state": "Alaska",
-          "value": 17,
+          "value": "17%",
           "position": 33
         },
         {
           "state": "Arizona",
-          "value": 19,
+          "value": "19%",
           "position": 25
         },
         {
           "state": "Arkansas",
-          "value": 16,
+          "value": "16%",
           "position": 36
         },
         {
           "state": "California",
-          "value": 19,
+          "value": "19%",
           "position": 26
         },
         {
           "state": "Colorado",
-          "value": 14,
+          "value": "14%",
           "position": 40
         },
         {
           "state": "Connecticut",
-          "value": 17,
+          "value": "17%",
           "position": 32
         },
         {
           "state": "Delaware",
-          "value": 21,
+          "value": "21%",
           "position": 19
         },
         {
           "state": "District of Columbia",
-          "value": 29,
+          "value": "29%",
           "position": 5
         },
         {
           "state": "Florida",
-          "value": 21,
+          "value": "21%",
           "position": 21
         },
         {
           "state": "Georgia",
-          "value": 22,
+          "value": "22%",
           "position": 14
         },
         {
           "state": "Hawaii",
-          "value": 19,
+          "value": "19%",
           "position": 29
         },
         {
           "state": "Idaho",
-          "value": 11,
+          "value": "11%",
           "position": 47
         },
         {
           "state": "Illinois",
-          "value": 22,
+          "value": "22%",
           "position": 13
         },
         {
           "state": "Indiana",
-          "value": 15,
+          "value": "15%",
           "position": 38
         },
         {
           "state": "Iowa",
-          "value": 13,
+          "value": "13%",
           "position": 43
         },
         {
           "state": "Kansas",
-          "value": 11,
+          "value": "11%",
           "position": 49
         },
         {
           "state": "Kentucky",
-          "value": 22,
+          "value": "22%",
           "position": 16
         },
         {
           "state": "Louisiana",
-          "value": 29,
+          "value": "29%",
           "position": 4
         },
         {
           "state": "Maine",
-          "value": 17,
+          "value": "17%",
           "position": 31
         },
         {
           "state": "Maryland",
-          "value": 19,
+          "value": "19%",
           "position": 27
         },
         {
           "state": "Massachusetts",
-          "value": 23,
+          "value": "23%",
           "position": 12
         },
         {
           "state": "Michigan",
-          "value": 22,
+          "value": "22%",
           "position": 17
         },
         {
           "state": "Minnesota",
-          "value": 13,
+          "value": "13%",
           "position": 45
         },
         {
           "state": "Mississippi",
-          "value": 22,
+          "value": "22%",
           "position": 15
         },
         {
           "state": "Missouri",
-          "value": 16,
+          "value": "16%",
           "position": 35
         },
         {
           "state": "Montana",
-          "value": 12,
+          "value": "12%",
           "position": 46
         },
         {
           "state": "Nebraska",
-          "value": 14,
+          "value": "14%",
           "position": 41
         },
         {
           "state": "Nevada",
-          "value": 23,
+          "value": "23%",
           "position": 9
         },
         {
           "state": "New Hampshire",
-          "value": 11,
+          "value": "11%",
           "position": 48
         },
         {
           "state": "New Jersey",
-          "value": 15,
+          "value": "15%",
           "position": 39
         },
         {
           "state": "New Mexico",
-          "value": 34,
+          "value": "34%",
           "position": 2
         },
         {
           "state": "New York",
-          "value": 24,
+          "value": "24%",
           "position": 8
         },
         {
           "state": "North Carolina",
-          "value": 23,
+          "value": "23%",
           "position": 11
         },
         {
           "state": "North Dakota",
-          "value": 9,
+          "value": "9%",
           "position": 51
         },
         {
           "state": "Ohio",
-          "value": 20,
+          "value": "20%",
           "position": 23
         },
         {
           "state": "Oklahoma",
-          "value": 24,
+          "value": "24%",
           "position": 7
         },
         {
           "state": "Oregon",
-          "value": 25,
+          "value": "25%",
           "position": 6
         },
         {
           "state": "Pennsylvania",
-          "value": 22,
+          "value": "22%",
           "position": 18
         },
         {
           "state": "Puerto Rico",
-          "value": 61,
+          "value": "61%",
           "position": 1
         },
         {
           "state": "Rhode Island",
-          "value": 17,
+          "value": "17%",
           "position": 34
         },
         {
           "state": "South Carolina",
-          "value": 20,
+          "value": "20%",
           "position": 22
         },
         {
           "state": "South Dakota",
-          "value": 14,
+          "value": "14%",
           "position": 42
         },
         {
           "state": "Tennessee",
-          "value": 19,
+          "value": "19%",
           "position": 24
         },
         {
           "state": "Texas",
-          "value": 21,
+          "value": "21%",
           "position": 20
         },
         {
           "state": "Utah",
-          "value": 8,
+          "value": "8%",
           "position": 52
         },
         {
           "state": "Vermont",
-          "value": 13,
+          "value": "13%",
           "position": 44
         },
         {
           "state": "Virginia",
-          "value": 16,
+          "value": "16%",
           "position": 37
         },
         {
           "state": "Washington",
-          "value": 17,
+          "value": "17%",
           "position": 30
         },
         {
           "state": "West Virginia",
-          "value": 31,
+          "value": "31%",
           "position": 3
         },
         {
           "state": "Wisconsin",
-          "value": 19,
+          "value": "19%",
           "position": 28
         },
         {
           "state": "Wyoming",
-          "value": 9,
+          "value": "9%",
           "position": 50
         }
       ]
@@ -3997,262 +3997,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 23,
+          "value": "23%",
           "position": 10
         },
         {
           "state": "Alaska",
-          "value": 15,
+          "value": "15%",
           "position": 37
         },
         {
           "state": "Arizona",
-          "value": 18,
+          "value": "18%",
           "position": 28
         },
         {
           "state": "Arkansas",
-          "value": 13,
+          "value": "13%",
           "position": 42
         },
         {
           "state": "California",
-          "value": 19,
+          "value": "19%",
           "position": 24
         },
         {
           "state": "Colorado",
-          "value": 15,
+          "value": "15%",
           "position": 36
         },
         {
           "state": "Connecticut",
-          "value": 16,
+          "value": "16%",
           "position": 32
         },
         {
           "state": "Delaware",
-          "value": 20,
+          "value": "20%",
           "position": 19
         },
         {
           "state": "District of Columbia",
-          "value": 28,
+          "value": "28%",
           "position": 4
         },
         {
           "state": "Florida",
-          "value": 20,
+          "value": "20%",
           "position": 18
         },
         {
           "state": "Georgia",
-          "value": 20,
+          "value": "20%",
           "position": 20
         },
         {
           "state": "Hawaii",
-          "value": 17,
+          "value": "17%",
           "position": 30
         },
         {
           "state": "Idaho",
-          "value": 11,
+          "value": "11%",
           "position": 49
         },
         {
           "state": "Illinois",
-          "value": 22,
+          "value": "22%",
           "position": 14
         },
         {
           "state": "Indiana",
-          "value": 14,
+          "value": "14%",
           "position": 39
         },
         {
           "state": "Iowa",
-          "value": 14,
+          "value": "14%",
           "position": 40
         },
         {
           "state": "Kansas",
-          "value": 11,
+          "value": "11%",
           "position": 48
         },
         {
           "state": "Kentucky",
-          "value": 22,
+          "value": "22%",
           "position": 12
         },
         {
           "state": "Louisiana",
-          "value": 29,
+          "value": "29%",
           "position": 3
         },
         {
           "state": "Maine",
-          "value": 18,
+          "value": "18%",
           "position": 29
         },
         {
           "state": "Maryland",
-          "value": 15,
+          "value": "15%",
           "position": 35
         },
         {
           "state": "Massachusetts",
-          "value": 22,
+          "value": "22%",
           "position": 13
         },
         {
           "state": "Michigan",
-          "value": 21,
+          "value": "21%",
           "position": 15
         },
         {
           "state": "Minnesota",
-          "value": 12,
+          "value": "12%",
           "position": 45
         },
         {
           "state": "Mississippi",
-          "value": 21,
+          "value": "21%",
           "position": 17
         },
         {
           "state": "Missouri",
-          "value": 15,
+          "value": "15%",
           "position": 34
         },
         {
           "state": "Montana",
-          "value": 12,
+          "value": "12%",
           "position": 44
         },
         {
           "state": "Nebraska",
-          "value": 13,
+          "value": "13%",
           "position": 43
         },
         {
           "state": "Nevada",
-          "value": 24,
+          "value": "24%",
           "position": 7
         },
         {
           "state": "New Hampshire",
-          "value": 12,
+          "value": "12%",
           "position": 47
         },
         {
           "state": "New Jersey",
-          "value": 14,
+          "value": "14%",
           "position": 38
         },
         {
           "state": "New Mexico",
-          "value": 34,
+          "value": "34%",
           "position": 2
         },
         {
           "state": "New York",
-          "value": 23,
+          "value": "23%",
           "position": 11
         },
         {
           "state": "North Carolina",
-          "value": 21,
+          "value": "21%",
           "position": 16
         },
         {
           "state": "North Dakota",
-          "value": 10,
+          "value": "10%",
           "position": 50
         },
         {
           "state": "Ohio",
-          "value": 19,
+          "value": "19%",
           "position": 21
         },
         {
           "state": "Oklahoma",
-          "value": 24,
+          "value": "24%",
           "position": 8
         },
         {
           "state": "Oregon",
-          "value": 25,
+          "value": "25%",
           "position": 6
         },
         {
           "state": "Pennsylvania",
-          "value": 23,
+          "value": "23%",
           "position": 9
         },
         {
           "state": "Puerto Rico",
-          "value": 58,
+          "value": "58%",
           "position": 1
         },
         {
           "state": "Rhode Island",
-          "value": 18,
+          "value": "18%",
           "position": 27
         },
         {
           "state": "South Carolina",
-          "value": 19,
+          "value": "19%",
           "position": 23
         },
         {
           "state": "South Dakota",
-          "value": 12,
+          "value": "12%",
           "position": 46
         },
         {
           "state": "Tennessee",
-          "value": 17,
+          "value": "17%",
           "position": 31
         },
         {
           "state": "Texas",
-          "value": 19,
+          "value": "19%",
           "position": 22
         },
         {
           "state": "Utah",
-          "value": 7,
+          "value": "7%",
           "position": 52
         },
         {
           "state": "Vermont",
-          "value": 14,
+          "value": "14%",
           "position": 41
         },
         {
           "state": "Virginia",
-          "value": 16,
+          "value": "16%",
           "position": 33
         },
         {
           "state": "Washington",
-          "value": 19,
+          "value": "19%",
           "position": 25
         },
         {
           "state": "West Virginia",
-          "value": 26,
+          "value": "26%",
           "position": 5
         },
         {
           "state": "Wisconsin",
-          "value": 18,
+          "value": "18%",
           "position": 26
         },
         {
           "state": "Wyoming",
-          "value": 10,
+          "value": "10%",
           "position": 51
         }
       ]
@@ -4263,262 +4263,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "California",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 19,
+          "value": "19%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 22,
+          "value": "22%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 1,
+          "value": "1%",
           "position": null
         },
         {
           "state": "Puerto Rico",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Rhode Island",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 7,
+          "value": "7%",
           "position": null
         }
       ]
@@ -4529,197 +4529,197 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 9.0,
+          "value": "9.0%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 17.0,
+          "value": "17.0%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 7.0,
+          "value": "7.0%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 14.0,
+          "value": "14.0%",
           "position": null
         },
         {
           "state": "California",
-          "value": 8.0,
+          "value": "8.0%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 9.0,
+          "value": "9.0%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 10.0,
+          "value": "10.0%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 8.0,
+          "value": "8.0%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 11.0,
+          "value": "11.0%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 10.0,
+          "value": "10.0%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 9.0,
+          "value": "9.0%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 5.0,
+          "value": "5.0%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 4.0,
+          "value": "4.0%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 10.0,
+          "value": "10.0%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 18.0,
+          "value": "18.0%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 12.0,
+          "value": "12.0%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 3.0,
+          "value": "3.0%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 20.0,
+          "value": "20.0%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 10.0,
+          "value": "10.0%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 14.0,
+          "value": "14.0%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 5.0,
+          "value": "5.0%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 23.0,
+          "value": "23.0%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 17.0,
+          "value": "17.0%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 6.0,
+          "value": "6.0%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 14.0,
+          "value": "14.0%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 4.0,
+          "value": "4.0%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 13.0,
+          "value": "13.0%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 6.0,
+          "value": "6.0%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 7.0,
+          "value": "7.0%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 4.0,
+          "value": "4.0%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 4.0,
+          "value": "4.0%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 15.0,
+          "value": "15.0%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 16.0,
+          "value": "16.0%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 3.0,
+          "value": "3.0%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 10.0,
+          "value": "10.0%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 9.0,
+          "value": "9.0%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 15.0,
+          "value": "15.0%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 14.0,
+          "value": "14.0%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 2.0,
+          "value": "2.0%",
           "position": null
         },
         {
@@ -4729,62 +4729,62 @@
         },
         {
           "state": "Rhode Island",
-          "value": 14.0,
+          "value": "14.0%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 16.0,
+          "value": "16.0%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 6.0,
+          "value": "6.0%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 6.0,
+          "value": "6.0%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 8.0,
+          "value": "8.0%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 10.0,
+          "value": "10.0%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 7.0,
+          "value": "7.0%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 3.0,
+          "value": "3.0%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 3.0,
+          "value": "3.0%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 16.0,
+          "value": "16.0%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 4.0,
+          "value": "4.0%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 7.0,
+          "value": "7.0%",
           "position": null
         }
       ]
@@ -4795,262 +4795,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "California",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 19,
+          "value": "19%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 22,
+          "value": "22%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 2,
+          "value": "2%",
           "position": null
         },
         {
           "state": "Puerto Rico",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Rhode Island",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 7,
+          "value": "7%",
           "position": null
         }
       ]
@@ -5061,262 +5061,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "California",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 24,
+          "value": "24%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 19,
+          "value": "19%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 2,
+          "value": "2%",
           "position": null
         },
         {
           "state": "Puerto Rico",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Rhode Island",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 19,
+          "value": "19%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 8,
+          "value": "8%",
           "position": null
         }
       ]
@@ -5327,262 +5327,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "California",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 20,
+          "value": "20%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 19,
+          "value": "19%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 2,
+          "value": "2%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 2,
+          "value": "2%",
           "position": null
         },
         {
           "state": "Puerto Rico",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Rhode Island",
-          "value": 16,
+          "value": "16%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 17,
+          "value": "17%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 3,
+          "value": "3%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 19,
+          "value": "19%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 8,
+          "value": "8%",
           "position": null
         }
       ]
@@ -5593,12 +5593,12 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 11.0,
+          "value": "11.0%",
           "position": 20
         },
         {
           "state": "Alaska",
-          "value": 15.0,
+          "value": "15.0%",
           "position": 5
         },
         {
@@ -5608,247 +5608,247 @@
         },
         {
           "state": "Arkansas",
-          "value": 14.0,
+          "value": "14.0%",
           "position": 9
         },
         {
           "state": "California",
-          "value": 6.0,
+          "value": "6.0%",
           "position": 33
         },
         {
           "state": "Colorado",
-          "value": 9.0,
+          "value": "9.0%",
           "position": 24
         },
         {
           "state": "Connecticut",
-          "value": 8.0,
+          "value": "8.0%",
           "position": 28
         },
         {
           "state": "Delaware",
-          "value": 5.0,
+          "value": "5.0%",
           "position": 35
         },
         {
           "state": "District of Columbia",
-          "value": 13.0,
+          "value": "13.0%",
           "position": 12
         },
         {
           "state": "Florida",
-          "value": 6.0,
+          "value": "6.0%",
           "position": 32
         },
         {
           "state": "Georgia",
-          "value": 4.0,
+          "value": "4.0%",
           "position": 42
         },
         {
           "state": "Hawaii",
-          "value": 4.0,
+          "value": "4.0%",
           "position": 40
         },
         {
           "state": "Idaho",
-          "value": 5.0,
+          "value": "5.0%",
           "position": 38
         },
         {
           "state": "Illinois",
-          "value": 13.0,
+          "value": "13.0%",
           "position": 14
         },
         {
           "state": "Indiana",
-          "value": 14.0,
+          "value": "14.0%",
           "position": 11
         },
         {
           "state": "Iowa",
-          "value": 15.0,
+          "value": "15.0%",
           "position": 4
         },
         {
           "state": "Kansas",
-          "value": 3.0,
+          "value": "3.0%",
           "position": 47
         },
         {
           "state": "Kentucky",
-          "value": 15.0,
+          "value": "15.0%",
           "position": 6
         },
         {
           "state": "Louisiana",
-          "value": 6.0,
+          "value": "6.0%",
           "position": 34
         },
         {
           "state": "Maine",
-          "value": 17.0,
+          "value": "17.0%",
           "position": 2
         },
         {
           "state": "Maryland",
-          "value": 5.0,
+          "value": "5.0%",
           "position": 39
         },
         {
           "state": "Massachusetts",
-          "value": 17.0,
+          "value": "17.0%",
           "position": 3
         },
         {
           "state": "Michigan",
-          "value": 11.0,
+          "value": "11.0%",
           "position": 19
         },
         {
           "state": "Minnesota",
-          "value": 4.0,
+          "value": "4.0%",
           "position": 41
         },
         {
           "state": "Mississippi",
-          "value": 12.0,
+          "value": "12.0%",
           "position": 17
         },
         {
           "state": "Missouri",
-          "value": 3.0,
+          "value": "3.0%",
           "position": 46
         },
         {
           "state": "Montana",
-          "value": 13.0,
+          "value": "13.0%",
           "position": 12
         },
         {
           "state": "Nebraska",
-          "value": 5.0,
+          "value": "5.0%",
           "position": 36
         },
         {
           "state": "Nevada",
-          "value": 8.0,
+          "value": "8.0%",
           "position": 27
         },
         {
           "state": "New Hampshire",
-          "value": 4.0,
+          "value": "4.0%",
           "position": 42
         },
         {
           "state": "New Jersey",
-          "value": 2.0,
+          "value": "2.0%",
           "position": 51
         },
         {
           "state": "New Mexico",
-          "value": 13.0,
+          "value": "13.0%",
           "position": 15
         },
         {
           "state": "New York",
-          "value": 14.0,
+          "value": "14.0%",
           "position": 8
         },
         {
           "state": "North Carolina",
-          "value": 9.0,
+          "value": "9.0%",
           "position": 23
         },
         {
           "state": "North Dakota",
-          "value": 7.0,
+          "value": "7.0%",
           "position": 29
         },
         {
           "state": "Ohio",
-          "value": 9.0,
+          "value": "9.0%",
           "position": 22
         },
         {
           "state": "Oklahoma",
-          "value": 14.0,
+          "value": "14.0%",
           "position": 7
         },
         {
           "state": "Oregon",
-          "value": 12.0,
+          "value": "12.0%",
           "position": 17
         },
         {
           "state": "Pennsylvania",
-          "value": 2.0,
+          "value": "2.0%",
           "position": 50
         },
         {
           "state": "Puerto Rico",
-          "value": 9.0,
+          "value": "9.0%",
           "position": 25
         },
         {
           "state": "Rhode Island",
-          "value": 12.0,
+          "value": "12.0%",
           "position": 16
         },
         {
           "state": "South Carolina",
-          "value": 14.0,
+          "value": "14.0%",
           "position": 9
         },
         {
           "state": "South Dakota",
-          "value": 7.0,
+          "value": "7.0%",
           "position": 31
         },
         {
           "state": "Tennessee",
-          "value": 5.0,
+          "value": "5.0%",
           "position": 37
         },
         {
           "state": "Texas",
-          "value": 9.0,
+          "value": "9.0%",
           "position": 25
         },
         {
           "state": "Utah",
-          "value": 10.0,
+          "value": "10.0%",
           "position": 21
         },
         {
           "state": "Vermont",
-          "value": 3.0,
+          "value": "3.0%",
           "position": 44
         },
         {
           "state": "Virginia",
-          "value": 3.0,
+          "value": "3.0%",
           "position": 48
         },
         {
           "state": "Washington",
-          "value": 2.0,
+          "value": "2.0%",
           "position": 49
         },
         {
           "state": "West Virginia",
-          "value": 17.0,
+          "value": "17.0%",
           "position": 1
         },
         {
           "state": "Wisconsin",
-          "value": 3.0,
+          "value": "3.0%",
           "position": 45
         },
         {
           "state": "Wyoming",
-          "value": 7.0,
+          "value": "7.0%",
           "position": 30
         }
       ]
@@ -5859,262 +5859,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 11,
+          "value": "11%",
           "position": 20
         },
         {
           "state": "Alaska",
-          "value": 15,
+          "value": "15%",
           "position": 5
         },
         {
           "state": "Arizona",
-          "value": 8,
+          "value": "8%",
           "position": 27
         },
         {
           "state": "Arkansas",
-          "value": 13,
+          "value": "13%",
           "position": 9
         },
         {
           "state": "California",
-          "value": 6,
+          "value": "6%",
           "position": 34
         },
         {
           "state": "Colorado",
-          "value": 8,
+          "value": "8%",
           "position": 26
         },
         {
           "state": "Connecticut",
-          "value": 7,
+          "value": "7%",
           "position": 30
         },
         {
           "state": "Delaware",
-          "value": 6,
+          "value": "6%",
           "position": 37
         },
         {
           "state": "District of Columbia",
-          "value": 13,
+          "value": "13%",
           "position": 11
         },
         {
           "state": "Florida",
-          "value": 6,
+          "value": "6%",
           "position": 36
         },
         {
           "state": "Georgia",
-          "value": 5,
+          "value": "5%",
           "position": 42
         },
         {
           "state": "Hawaii",
-          "value": 5,
+          "value": "5%",
           "position": 43
         },
         {
           "state": "Idaho",
-          "value": 5,
+          "value": "5%",
           "position": 40
         },
         {
           "state": "Illinois",
-          "value": 12,
+          "value": "12%",
           "position": 17
         },
         {
           "state": "Indiana",
-          "value": 13,
+          "value": "13%",
           "position": 15
         },
         {
           "state": "Iowa",
-          "value": 16,
+          "value": "16%",
           "position": 3
         },
         {
           "state": "Kansas",
-          "value": 3,
+          "value": "3%",
           "position": 48
         },
         {
           "state": "Kentucky",
-          "value": 13,
+          "value": "13%",
           "position": 14
         },
         {
           "state": "Louisiana",
-          "value": 8,
+          "value": "8%",
           "position": 29
         },
         {
           "state": "Maine",
-          "value": 16,
+          "value": "16%",
           "position": 4
         },
         {
           "state": "Maryland",
-          "value": 5,
+          "value": "5%",
           "position": 38
         },
         {
           "state": "Massachusetts",
-          "value": 17,
+          "value": "17%",
           "position": 1
         },
         {
           "state": "Michigan",
-          "value": 12,
+          "value": "12%",
           "position": 19
         },
         {
           "state": "Minnesota",
-          "value": 5,
+          "value": "5%",
           "position": 43
         },
         {
           "state": "Mississippi",
-          "value": 14,
+          "value": "14%",
           "position": 7
         },
         {
           "state": "Missouri",
-          "value": 3,
+          "value": "3%",
           "position": 47
         },
         {
           "state": "Montana",
-          "value": 12,
+          "value": "12%",
           "position": 18
         },
         {
           "state": "Nebraska",
-          "value": 5,
+          "value": "5%",
           "position": 40
         },
         {
           "state": "Nevada",
-          "value": 9,
+          "value": "9%",
           "position": 24
         },
         {
           "state": "New Hampshire",
-          "value": 5,
+          "value": "5%",
           "position": 43
         },
         {
           "state": "New Jersey",
-          "value": 2,
+          "value": "2%",
           "position": 52
         },
         {
           "state": "New Mexico",
-          "value": 13,
+          "value": "13%",
           "position": 10
         },
         {
           "state": "New York",
-          "value": 13,
+          "value": "13%",
           "position": 13
         },
         {
           "state": "North Carolina",
-          "value": 11,
+          "value": "11%",
           "position": 21
         },
         {
           "state": "North Dakota",
-          "value": 7,
+          "value": "7%",
           "position": 33
         },
         {
           "state": "Ohio",
-          "value": 9,
+          "value": "9%",
           "position": 23
         },
         {
           "state": "Oklahoma",
-          "value": 15,
+          "value": "15%",
           "position": 6
         },
         {
           "state": "Oregon",
-          "value": 13,
+          "value": "13%",
           "position": 11
         },
         {
           "state": "Pennsylvania",
-          "value": 2,
+          "value": "2%",
           "position": 51
         },
         {
           "state": "Puerto Rico",
-          "value": 9,
+          "value": "9%",
           "position": 25
         },
         {
           "state": "Rhode Island",
-          "value": 12,
+          "value": "12%",
           "position": 16
         },
         {
           "state": "South Carolina",
-          "value": 13,
+          "value": "13%",
           "position": 8
         },
         {
           "state": "South Dakota",
-          "value": 7,
+          "value": "7%",
           "position": 31
         },
         {
           "state": "Tennessee",
-          "value": 5,
+          "value": "5%",
           "position": 39
         },
         {
           "state": "Texas",
-          "value": 8,
+          "value": "8%",
           "position": 28
         },
         {
           "state": "Utah",
-          "value": 10,
+          "value": "10%",
           "position": 22
         },
         {
           "state": "Vermont",
-          "value": 6,
+          "value": "6%",
           "position": 35
         },
         {
           "state": "Virginia",
-          "value": 3,
+          "value": "3%",
           "position": 49
         },
         {
           "state": "Washington",
-          "value": 3,
+          "value": "3%",
           "position": 50
         },
         {
           "state": "West Virginia",
-          "value": 16,
+          "value": "16%",
           "position": 2
         },
         {
           "state": "Wisconsin",
-          "value": 4,
+          "value": "4%",
           "position": 46
         },
         {
           "state": "Wyoming",
-          "value": 7,
+          "value": "7%",
           "position": 32
         }
       ]
@@ -6125,262 +6125,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 34,
+          "value": "34%",
           "position": 8
         },
         {
           "state": "Alaska",
-          "value": 27,
+          "value": "27%",
           "position": 36
         },
         {
           "state": "Arizona",
-          "value": 31,
+          "value": "31%",
           "position": 24
         },
         {
           "state": "Arkansas",
-          "value": 33,
+          "value": "33%",
           "position": 10
         },
         {
           "state": "California",
-          "value": 29,
+          "value": "29%",
           "position": 33
         },
         {
           "state": "Colorado",
-          "value": 25,
+          "value": "25%",
           "position": 47
         },
         {
           "state": "Connecticut",
-          "value": 32,
+          "value": "32%",
           "position": 17
         },
         {
           "state": "Delaware",
-          "value": 36,
+          "value": "36%",
           "position": 7
         },
         {
           "state": "District of Columbia",
-          "value": 43,
+          "value": "43%",
           "position": 2
         },
         {
           "state": "Florida",
-          "value": 32,
+          "value": "32%",
           "position": 14
         },
         {
           "state": "Georgia",
-          "value": 33,
+          "value": "33%",
           "position": 11
         },
         {
           "state": "Hawaii",
-          "value": 27,
+          "value": "27%",
           "position": 42
         },
         {
           "state": "Idaho",
-          "value": 20,
+          "value": "20%",
           "position": 51
         },
         {
           "state": "Illinois",
-          "value": 30,
+          "value": "30%",
           "position": 26
         },
         {
           "state": "Indiana",
-          "value": 29,
+          "value": "29%",
           "position": 30
         },
         {
           "state": "Iowa",
-          "value": 27,
+          "value": "27%",
           "position": 40
         },
         {
           "state": "Kansas",
-          "value": 27,
+          "value": "27%",
           "position": 41
         },
         {
           "state": "Kentucky",
-          "value": 32,
+          "value": "32%",
           "position": 15
         },
         {
           "state": "Louisiana",
-          "value": 41,
+          "value": "41%",
           "position": 3
         },
         {
           "state": "Maine",
-          "value": 29,
+          "value": "29%",
           "position": 32
         },
         {
           "state": "Maryland",
-          "value": 30,
+          "value": "30%",
           "position": 29
         },
         {
           "state": "Massachusetts",
-          "value": 29,
+          "value": "29%",
           "position": 31
         },
         {
           "state": "Michigan",
-          "value": 31,
+          "value": "31%",
           "position": 25
         },
         {
           "state": "Minnesota",
-          "value": 25,
+          "value": "25%",
           "position": 45
         },
         {
           "state": "Mississippi",
-          "value": 38,
+          "value": "38%",
           "position": 5
         },
         {
           "state": "Missouri",
-          "value": 29,
+          "value": "29%",
           "position": 34
         },
         {
           "state": "Montana",
-          "value": 25,
+          "value": "25%",
           "position": 44
         },
         {
           "state": "Nebraska",
-          "value": 26,
+          "value": "26%",
           "position": 43
         },
         {
           "state": "Nevada",
-          "value": 36,
+          "value": "36%",
           "position": 6
         },
         {
           "state": "New Hampshire",
-          "value": 23,
+          "value": "23%",
           "position": 49
         },
         {
           "state": "New Jersey",
-          "value": 27,
+          "value": "27%",
           "position": 39
         },
         {
           "state": "New Mexico",
-          "value": 40,
+          "value": "40%",
           "position": 4
         },
         {
           "state": "New York",
-          "value": 31,
+          "value": "31%",
           "position": 20
         },
         {
           "state": "North Carolina",
-          "value": 31,
+          "value": "31%",
           "position": 21
         },
         {
           "state": "North Dakota",
-          "value": 21,
+          "value": "21%",
           "position": 50
         },
         {
           "state": "Ohio",
-          "value": 33,
+          "value": "33%",
           "position": 9
         },
         {
           "state": "Oklahoma",
-          "value": 31,
+          "value": "31%",
           "position": 22
         },
         {
           "state": "Oregon",
-          "value": 31,
+          "value": "31%",
           "position": 23
         },
         {
           "state": "Pennsylvania",
-          "value": 32,
+          "value": "32%",
           "position": 16
         },
         {
           "state": "Puerto Rico",
-          "value": 61,
+          "value": "61%",
           "position": 1
         },
         {
           "state": "Rhode Island",
-          "value": 32,
+          "value": "32%",
           "position": 12
         },
         {
           "state": "South Carolina",
-          "value": 32,
+          "value": "32%",
           "position": 13
         },
         {
           "state": "South Dakota",
-          "value": 27,
+          "value": "27%",
           "position": 37
         },
         {
           "state": "Tennessee",
-          "value": 31,
+          "value": "31%",
           "position": 19
         },
         {
           "state": "Texas",
-          "value": 30,
+          "value": "30%",
           "position": 27
         },
         {
           "state": "Utah",
-          "value": 17,
+          "value": "17%",
           "position": 52
         },
         {
           "state": "Vermont",
-          "value": 25,
+          "value": "25%",
           "position": 48
         },
         {
           "state": "Virginia",
-          "value": 28,
+          "value": "28%",
           "position": 35
         },
         {
           "state": "Washington",
-          "value": 25,
+          "value": "25%",
           "position": 46
         },
         {
           "state": "West Virginia",
-          "value": 31,
+          "value": "31%",
           "position": 18
         },
         {
           "state": "Wisconsin",
-          "value": 30,
+          "value": "30%",
           "position": 28
         },
         {
           "state": "Wyoming",
-          "value": 27,
+          "value": "27%",
           "position": 38
         }
       ]
@@ -7987,262 +7987,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 33,
+          "value": "33%",
           "position": 12
         },
         {
           "state": "Alaska",
-          "value": 31,
+          "value": "31%",
           "position": 20
         },
         {
           "state": "Arizona",
-          "value": 32,
+          "value": "32%",
           "position": 17
         },
         {
           "state": "Arkansas",
-          "value": 31,
+          "value": "31%",
           "position": 18
         },
         {
           "state": "California",
-          "value": 29,
+          "value": "29%",
           "position": 31
         },
         {
           "state": "Colorado",
-          "value": 25,
+          "value": "25%",
           "position": 49
         },
         {
           "state": "Connecticut",
-          "value": 31,
+          "value": "31%",
           "position": 21
         },
         {
           "state": "Delaware",
-          "value": 34,
+          "value": "34%",
           "position": 9
         },
         {
           "state": "District of Columbia",
-          "value": 44,
+          "value": "44%",
           "position": 2
         },
         {
           "state": "Florida",
-          "value": 33,
+          "value": "33%",
           "position": 11
         },
         {
           "state": "Georgia",
-          "value": 34,
+          "value": "34%",
           "position": 8
         },
         {
           "state": "Hawaii",
-          "value": 29,
+          "value": "29%",
           "position": 29
         },
         {
           "state": "Idaho",
-          "value": 21,
+          "value": "21%",
           "position": 51
         },
         {
           "state": "Illinois",
-          "value": 30,
+          "value": "30%",
           "position": 26
         },
         {
           "state": "Indiana",
-          "value": 29,
+          "value": "29%",
           "position": 34
         },
         {
           "state": "Iowa",
-          "value": 26,
+          "value": "26%",
           "position": 41
         },
         {
           "state": "Kansas",
-          "value": 25,
+          "value": "25%",
           "position": 45
         },
         {
           "state": "Kentucky",
-          "value": 31,
+          "value": "31%",
           "position": 24
         },
         {
           "state": "Louisiana",
-          "value": 42,
+          "value": "42%",
           "position": 3
         },
         {
           "state": "Maine",
-          "value": 28,
+          "value": "28%",
           "position": 35
         },
         {
           "state": "Maryland",
-          "value": 29,
+          "value": "29%",
           "position": 30
         },
         {
           "state": "Massachusetts",
-          "value": 29,
+          "value": "29%",
           "position": 32
         },
         {
           "state": "Michigan",
-          "value": 31,
+          "value": "31%",
           "position": 22
         },
         {
           "state": "Minnesota",
-          "value": 25,
+          "value": "25%",
           "position": 48
         },
         {
           "state": "Mississippi",
-          "value": 39,
+          "value": "39%",
           "position": 5
         },
         {
           "state": "Missouri",
-          "value": 31,
+          "value": "31%",
           "position": 25
         },
         {
           "state": "Montana",
-          "value": 25,
+          "value": "25%",
           "position": 46
         },
         {
           "state": "Nebraska",
-          "value": 26,
+          "value": "26%",
           "position": 42
         },
         {
           "state": "Nevada",
-          "value": 35,
+          "value": "35%",
           "position": 6
         },
         {
           "state": "New Hampshire",
-          "value": 25,
+          "value": "25%",
           "position": 47
         },
         {
           "state": "New Jersey",
-          "value": 26,
+          "value": "26%",
           "position": 40
         },
         {
           "state": "New Mexico",
-          "value": 41,
+          "value": "41%",
           "position": 4
         },
         {
           "state": "New York",
-          "value": 31,
+          "value": "31%",
           "position": 23
         },
         {
           "state": "North Carolina",
-          "value": 32,
+          "value": "32%",
           "position": 16
         },
         {
           "state": "North Dakota",
-          "value": 22,
+          "value": "22%",
           "position": 50
         },
         {
           "state": "Ohio",
-          "value": 33,
+          "value": "33%",
           "position": 13
         },
         {
           "state": "Oklahoma",
-          "value": 31,
+          "value": "31%",
           "position": 19
         },
         {
           "state": "Oregon",
-          "value": 28,
+          "value": "28%",
           "position": 38
         },
         {
           "state": "Pennsylvania",
-          "value": 30,
+          "value": "30%",
           "position": 28
         },
         {
           "state": "Puerto Rico",
-          "value": 61,
+          "value": "61%",
           "position": 1
         },
         {
           "state": "Rhode Island",
-          "value": 35,
+          "value": "35%",
           "position": 7
         },
         {
           "state": "South Carolina",
-          "value": 32,
+          "value": "32%",
           "position": 15
         },
         {
           "state": "South Dakota",
-          "value": 26,
+          "value": "26%",
           "position": 44
         },
         {
           "state": "Tennessee",
-          "value": 32,
+          "value": "32%",
           "position": 14
         },
         {
           "state": "Texas",
-          "value": 30,
+          "value": "30%",
           "position": 27
         },
         {
           "state": "Utah",
-          "value": 16,
+          "value": "16%",
           "position": 52
         },
         {
           "state": "Vermont",
-          "value": 28,
+          "value": "28%",
           "position": 37
         },
         {
           "state": "Virginia",
-          "value": 28,
+          "value": "28%",
           "position": 36
         },
         {
           "state": "Washington",
-          "value": 26,
+          "value": "26%",
           "position": 43
         },
         {
           "state": "West Virginia",
-          "value": 33,
+          "value": "33%",
           "position": 10
         },
         {
           "state": "Wisconsin",
-          "value": 29,
+          "value": "29%",
           "position": 33
         },
         {
           "state": "Wyoming",
-          "value": 27,
+          "value": "27%",
           "position": 39
         }
       ]
@@ -9849,262 +9849,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "California",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 2,
+          "value": "2%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 15,
+          "value": "15%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 18,
+          "value": "18%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Puerto Rico",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Rhode Island",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 10,
+          "value": "10%",
           "position": null
         }
       ]
@@ -10115,262 +10115,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Alaska",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Arizona",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Arkansas",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "California",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Colorado",
-          "value": 7,
+          "value": "7%",
           "position": null
         },
         {
           "state": "Connecticut",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Delaware",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "District of Columbia",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Florida",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Georgia",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Hawaii",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "Idaho",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Illinois",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Indiana",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "Iowa",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Kansas",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Kentucky",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Louisiana",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Maine",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Maryland",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Massachusetts",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Michigan",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Minnesota",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Mississippi",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Missouri",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Montana",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Nebraska",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Nevada",
-          "value": 14,
+          "value": "14%",
           "position": null
         },
         {
           "state": "New Hampshire",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "New Jersey",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "New Mexico",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "New York",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "North Carolina",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "North Dakota",
-          "value": 2,
+          "value": "2%",
           "position": null
         },
         {
           "state": "Ohio",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Oklahoma",
-          "value": 12,
+          "value": "12%",
           "position": null
         },
         {
           "state": "Oregon",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Pennsylvania",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "Puerto Rico",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Rhode Island",
-          "value": 4,
+          "value": "4%",
           "position": null
         },
         {
           "state": "South Carolina",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "South Dakota",
-          "value": 13,
+          "value": "13%",
           "position": null
         },
         {
           "state": "Tennessee",
-          "value": 9,
+          "value": "9%",
           "position": null
         },
         {
           "state": "Texas",
-          "value": 11,
+          "value": "11%",
           "position": null
         },
         {
           "state": "Utah",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Vermont",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Virginia",
-          "value": 6,
+          "value": "6%",
           "position": null
         },
         {
           "state": "Washington",
-          "value": 10,
+          "value": "10%",
           "position": null
         },
         {
           "state": "West Virginia",
-          "value": 8,
+          "value": "8%",
           "position": null
         },
         {
           "state": "Wisconsin",
-          "value": 5,
+          "value": "5%",
           "position": null
         },
         {
           "state": "Wyoming",
-          "value": 11,
+          "value": "11%",
           "position": null
         }
       ]
@@ -10381,262 +10381,262 @@
       "values": [
         {
           "state": "Alabama",
-          "value": 11,
+          "value": "11%",
           "position": 19
         },
         {
           "state": "Alaska",
-          "value": 14,
+          "value": "14%",
           "position": 5
         },
         {
           "state": "Arizona",
-          "value": 8,
+          "value": "8%",
           "position": 28
         },
         {
           "state": "Arkansas",
-          "value": 12,
+          "value": "12%",
           "position": 17
         },
         {
           "state": "California",
-          "value": 6,
+          "value": "6%",
           "position": 34
         },
         {
           "state": "Colorado",
-          "value": 9,
+          "value": "9%",
           "position": 26
         },
         {
           "state": "Connecticut",
-          "value": 8,
+          "value": "8%",
           "position": 29
         },
         {
           "state": "Delaware",
-          "value": 5,
+          "value": "5%",
           "position": 43
         },
         {
           "state": "District of Columbia",
-          "value": 10,
+          "value": "10%",
           "position": 21
         },
         {
           "state": "Florida",
-          "value": 6,
+          "value": "6%",
           "position": 35
         },
         {
           "state": "Georgia",
-          "value": 5,
+          "value": "5%",
           "position": 40
         },
         {
           "state": "Hawaii",
-          "value": 3,
+          "value": "3%",
           "position": 47
         },
         {
           "state": "Idaho",
-          "value": 5,
+          "value": "5%",
           "position": 42
         },
         {
           "state": "Illinois",
-          "value": 12,
+          "value": "12%",
           "position": 13
         },
         {
           "state": "Indiana",
-          "value": 12,
+          "value": "12%",
           "position": 15
         },
         {
           "state": "Iowa",
-          "value": 15,
+          "value": "15%",
           "position": 3
         },
         {
           "state": "Kansas",
-          "value": 3,
+          "value": "3%",
           "position": 48
         },
         {
           "state": "Kentucky",
-          "value": 15,
+          "value": "15%",
           "position": 4
         },
         {
           "state": "Louisiana",
-          "value": 9,
+          "value": "9%",
           "position": 25
         },
         {
           "state": "Maine",
-          "value": 15,
+          "value": "15%",
           "position": 2
         },
         {
           "state": "Maryland",
-          "value": 5,
+          "value": "5%",
           "position": 40
         },
         {
           "state": "Massachusetts",
-          "value": 17,
+          "value": "17%",
           "position": 1
         },
         {
           "state": "Michigan",
-          "value": 11,
+          "value": "11%",
           "position": 18
         },
         {
           "state": "Minnesota",
-          "value": 4,
+          "value": "4%",
           "position": 44
         },
         {
           "state": "Mississippi",
-          "value": 13,
+          "value": "13%",
           "position": 9
         },
         {
           "state": "Missouri",
-          "value": 4,
+          "value": "4%",
           "position": 45
         },
         {
           "state": "Montana",
-          "value": 12,
+          "value": "12%",
           "position": 16
         },
         {
           "state": "Nebraska",
-          "value": 5,
+          "value": "5%",
           "position": 39
         },
         {
           "state": "Nevada",
-          "value": 10,
+          "value": "10%",
           "position": 22
         },
         {
           "state": "New Hampshire",
-          "value": 6,
+          "value": "6%",
           "position": 36
         },
         {
           "state": "New Jersey",
-          "value": 2,
+          "value": "2%",
           "position": 52
         },
         {
           "state": "New Mexico",
-          "value": 13,
+          "value": "13%",
           "position": 10
         },
         {
           "state": "New York",
-          "value": 12,
+          "value": "12%",
           "position": 14
         },
         {
           "state": "North Carolina",
-          "value": 11,
+          "value": "11%",
           "position": 20
         },
         {
           "state": "North Dakota",
-          "value": 5,
+          "value": "5%",
           "position": 38
         },
         {
           "state": "Ohio",
-          "value": 8,
+          "value": "8%",
           "position": 27
         },
         {
           "state": "Oklahoma",
-          "value": 14,
+          "value": "14%",
           "position": 7
         },
         {
           "state": "Oregon",
-          "value": 13,
+          "value": "13%",
           "position": 8
         },
         {
           "state": "Pennsylvania",
-          "value": 2,
+          "value": "2%",
           "position": 51
         },
         {
           "state": "Puerto Rico",
-          "value": 9,
+          "value": "9%",
           "position": 24
         },
         {
           "state": "Rhode Island",
-          "value": 13,
+          "value": "13%",
           "position": 11
         },
         {
           "state": "South Carolina",
-          "value": 12,
+          "value": "12%",
           "position": 12
         },
         {
           "state": "South Dakota",
-          "value": 7,
+          "value": "7%",
           "position": 31
         },
         {
           "state": "Tennessee",
-          "value": 5,
+          "value": "5%",
           "position": 37
         },
         {
           "state": "Texas",
-          "value": 8,
+          "value": "8%",
           "position": 29
         },
         {
           "state": "Utah",
-          "value": 10,
+          "value": "10%",
           "position": 23
         },
         {
           "state": "Vermont",
-          "value": 6,
+          "value": "6%",
           "position": 33
         },
         {
           "state": "Virginia",
-          "value": 3,
+          "value": "3%",
           "position": 49
         },
         {
           "state": "Washington",
-          "value": 2,
+          "value": "2%",
           "position": 50
         },
         {
           "state": "West Virginia",
-          "value": 14,
+          "value": "14%",
           "position": 5
         },
         {
           "state": "Wisconsin",
-          "value": 3,
+          "value": "3%",
           "position": 46
         },
         {
           "state": "Wyoming",
-          "value": 6,
+          "value": "6%",
           "position": 32
         }
       ]
